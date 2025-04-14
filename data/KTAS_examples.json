@@ -1,0 +1,210 @@
+[
+  {
+    "symptom": "눈부심",
+    "example": {
+      "chief_complaint": "Photophobia",
+      "additional_notes": "밝은 빛 볼 때마다 눈 뜨기 힘들고 두통 동반"
+    },
+    "reasoning": "The chief_complaint 'Photophobia' generally signifies an abnormal intolerance or discomfort caused by bright light. The additional_notes, '밝은 빛 볼 때마다 눈 뜨기 힘들고 두통 동반,' highlight that the patient struggles to keep their eyes open under bright light and experiences headache. This combination strongly indicates 눈부심. Therefore,\nsymptom: 눈부심"
+  },
+  {
+    "symptom": "시력장애",
+    "example": {
+      "chief_complaint": "Vision Loss",
+      "additional_notes": "갑작스러운 visual disturbance로 사물 인식 어려움 호소함\n당뇨병력 등 기저질환 확인 필요"
+    },
+    "reasoning": "The chief_complaint 'Vision Loss' refers to a decrease in the patient's ability to see. The additional_notes mention '갑작스러운 visual disturbance로 사물 인식 어려움,' which suggests a sudden onset of vision problems making it hard to recognize objects. The mention of 당뇨병력 as a possible underlying condition further supports the need to explore 시력장애. Therefore,\nsymptom: 시력장애"
+  },
+  {
+    "symptom": "질 통증 / 가려움",
+    "example": {
+      "chief_complaint": "Pruritus, vaginal pain",
+      "additional_notes": "평소보다 심한 irritation과 분비물 변화 호소\nSTD 감염 여부 rule out 위해 검사 시행 예정\n과거 similar episode 기록 없음"
+    },
+    "reasoning": "The chief_complaint 'Pruritus, vaginal pain' points toward discomfort and itching in the vaginal area. The additional_notes state '평소보다 심한 irritation과 분비물 변화 호소,' indicating increased irritation and unusual discharge. This concern about possible STD infection and the absence of past similar incidents reinforce the symptom of 질 통증 / 가려움. Therefore,\nsymptom: 질 통증 / 가려움"
+  },
+  {
+    "symptom": "변비",
+    "example": {
+      "chief_complaint": "Constipation",
+      "additional_notes": "배변 횟수 감소와 복부 불편감 지속"
+    },
+    "reasoning": "The chief_complaint 'Constipation' indicates difficulty with bowel movements. The additional_notes note '배변 횟수 감소와 복부 불편감,' demonstrating a reduced frequency of defecation and ongoing abdominal discomfort. These observations confirm 변비. Therefore,\nsymptom: 변비"
+  },
+  {
+    "symptom": "혈변 / 흑색변",
+    "example": {
+      "chief_complaint": "Hematochezia",
+      "additional_notes": "Abdominal pain [-]\nNausea [+]\n\nHematochezia 2차례 총 종이컵 1컵 정도"
+    },
+    "reasoning": "The chief_complaint 'Hematochezia' describes the passage of fresh blood through the anus. From the additional_notes, we learn there were 'Hematochezia 2차례 총 종이컵 1컵 정도,' indicating a noticeable volume of bright red blood. This aligns with 혈변 / 흑색변. Therefore,\nsymptom: 혈변 / 흑색변"
+  },
+  {
+    "symptom": "질 출혈",
+    "example": {
+      "chief_complaint": "Vaginal Bleeding",
+      "additional_notes": "생리 주기와 무관한 abnormal bleeding 호소\n2주간 지속. 하루 패드 2장 이상 교체."
+    },
+    "reasoning": "The chief_complaint 'Vaginal Bleeding' involves bleeding outside the normal menstrual cycle. The additional_notes report '생리 주기와 무관한 abnormal bleeding 호소' for two weeks, requiring at least two pads per day. Such ongoing bleeding supports the symptom 질 출혈. Therefore,\nsymptom: 질 출혈"
+  },
+  {
+    "symptom": "경증 및 비특이적 증상 호소",
+    "example": {
+      "chief_complaint": "cough, fatigue",
+      "additional_notes": "가벼운 fatigue 호소\nfever (-)"
+    },
+    "reasoning": "The chief_complaint 'cough, fatigue' describes relatively mild issues—coughing and tiredness without a specific diagnosis. The additional_notes specify '가벼운 fatigue 호소' and no fever, indicating a nonspecific, low-intensity symptom profile. This aligns with 경증 및 비특이적 증상 호소. Therefore,\nsymptom: 경증 및 비특이적 증상 호소"
+  },
+  {
+    "symptom": "저체온증",
+    "example": {
+      "chief_complaint": "Hypothermia",
+      "additional_notes": "BT 35.4\n shivering (+)\n의식 alert"
+    },
+    "reasoning": "The chief_complaint 'Hypothermia' reflects abnormally low body temperature. In the additional_notes, 'BT 35.4' and 'shivering (+)' reinforce that the patient's temperature is below normal, consistent with 저체온증. Therefore,\nsymptom: 저체온증"
+  },
+  {
+    "symptom": "저혈당",
+    "example": {
+      "chief_complaint": "Hypoglycemia",
+      "additional_notes": "혈당 60mg/dL\nconfusion, shivering"
+    },
+    "reasoning": "The chief_complaint 'Hypoglycemia' indicates low blood glucose levels. The additional_notes '혈당 60mg/dL' and symptoms such as confusion and shivering confirm that the patient is experiencing a hypoglycemic state, i.e., 저혈당. Therefore,\nsymptom: 저혈당"
+  },
+  {
+    "symptom": "구토 / 구역",
+    "example": {
+      "chief_complaint": "Nausea",
+      "additional_notes": "수차례 vomiting. 메스꺼움. 어제부터 식사 제대로 못함"
+    },
+    "reasoning": "The chief_complaint 'Nausea' commonly denotes a feeling of queasiness or a desire to vomit. The additional_notes specify '수차례 vomiting' and '메스꺼움,' along with poor oral intake since the day before, confirming 구토 / 구역. Therefore,\nsymptom: 구토 / 구역"
+  },
+  {
+    "symptom": "복부 종괴 / 팽만",
+    "example": {
+      "chief_complaint": "Abdominal distension",
+      "additional_notes": "어제부터 배가 빵빵하게 부푼 것 같다. 만지면 통증이 있다 호소."
+    },
+    "reasoning": "The chief_complaint 'Abdominal distension' implies an unusual swelling or bloating of the abdomen. The additional_notes, '어제부터 배가 빵빵하게 부푼 것 같다. 만지면 통증이 있다,' point to noticeable swelling and tenderness on palpation. This is consistent with 복부 종괴 / 팽만. Therefore,\nsymptom: 복부 종괴 / 팽만"
+  },
+  {
+    "symptom": "복통",
+    "example": {
+      "chief_complaint": "Abdominal Pain",
+      "additional_notes": "복통"
+    },
+    "reasoning": "The chief_complaint 'Abdominal Pain' directly indicates stomach or abdominal discomfort. The additional_notes simply restate '복통,' confirming this complaint. Therefore,\nsymptom: 복통"
+  },
+  {
+    "symptom": "감각상실 / 이상감각",
+    "example": {
+      "chief_complaint": "Sensory Loss/Paresthesia",
+      "additional_notes": "지난 2일 손발 저림 호소. 손에 힘 잘 안들어감."
+    },
+    "reasoning": "The chief_complaint 'Sensory Loss/Paresthesia' refers to altered or diminished sensation. The additional_notes mention '지난 2일 손발 저림 호소' and reduced grip strength, highlighting numbness/tingling and weakness, which align with 감각상실 / 이상감각. Therefore,\nsymptom: 감각상실 / 이상감각"
+  },
+  {
+    "symptom": "감염 가능성 확인",
+    "example": {
+      "chief_complaint": "fever",
+      "additional_notes": "미열 (37.2) 이틀 전부터. 몸살 기운.\n코로나19 환자(가족) 접촉"
+    },
+    "reasoning": "The chief_complaint 'fever' raises concern for infection. The additional_notes, '미열 (37.2) 이틀 전부터. 몸살 기운. 코로나19 환자(가족) 접촉,' suggest a mild fever for two days with possible COVID-19 exposure, supporting 감염 가능성 확인. Therefore,\nsymptom: 감염 가능성 확인"
+  },
+  {
+    "symptom": "객혈",
+    "example": {
+      "chief_complaint": "Hemoptysis",
+      "additional_notes": "1일 2~3회 기침 시 붉은색 가래가 섞여 나온다고 함. \n통증 (-)"
+    },
+    "reasoning": "The chief_complaint 'Hemoptysis' indicates coughing up blood. The additional_notes specifying '기침 시 붉은색 가래가 섞여 나온다' multiple times per day confirm that the patient is experiencing coughing episodes with blood-tinged sputum, consistent with 객혈. Therefore,\nsymptom: 객혈"
+  },
+  {
+    "symptom": "고혈당",
+    "example": {
+      "chief_complaint": "Hyperglycemia",
+      "additional_notes": "혈당 250 mg/dL."
+    },
+    "reasoning": "The chief_complaint 'Hyperglycemia' concerns high blood sugar. The additional_notes '혈당 250 mg/dL' verify an elevated glucose level, which matches 고혈당. Therefore,\nsymptom: 고혈당"
+  },
+  {
+    "symptom": "두부 손상",
+    "example": {
+      "chief_complaint": "Head Trauma",
+      "additional_notes": "낙상으로 발생한 trauma 가능성. 두통 7/10. 의식 alert.\n통증때문에 어지럽다 함."
+    },
+    "reasoning": "The chief_complaint 'Head Trauma' points to an injury to the head, possibly from a fall. The additional_notes, '낙상으로 발생한 trauma 가능성' and a headache rating of 7/10, suggest a significant impact to the head, supporting 두부 손상. Therefore,\nsymptom: 두부 손상"
+  },
+  {
+    "symptom": "목의 부종 / 통증",
+    "example": {
+      "chief_complaint": "Pain",
+      "additional_notes": "목 안쪽 (인후두부) 통증 호소 (5/10).\n물도 삼키기 힘듦."
+    },
+    "reasoning": "The chief_complaint 'Pain' is further detailed in the additional_notes as 목 안쪽 (인후두부) 통증 rated at 5/10, with difficulty swallowing even liquids. These issues suggest inflammation or swelling in the throat area, leading to 목의 부종 / 통증. Therefore,\nsymptom: 목의 부종 / 통증"
+  },
+  {
+    "symptom": "기괴한 행동",
+    "example": {
+      "chief_complaint": "Disorientated",
+      "additional_notes": "갑작스러운 disorientation\n정신과적 evaluation 필요.\nSchizo로 본원 내원 중이던 환자. "
+    },
+    "reasoning": "The chief_complaint 'Disorientated' points toward confusion about surroundings or time. The additional_notes, '갑작스러운 disorientation' and a history of 'Schizo,' suggest a sudden mental status change possibly linked to a psychiatric condition. This change is characterized as 기괴한 행동. Therefore,\nsymptom: 기괴한 행동"
+  },
+  {
+    "symptom": "발작",
+    "example": {
+      "chief_complaint": "Seizure",
+      "additional_notes": "전신성 convulsion 발생"
+    },
+    "reasoning": "The chief_complaint 'Seizure' implies an episode of abnormal electrical brain activity. The additional_notes confirm '전신성 convulsion 발생,' indicating a generalized seizure, which points directly to 발작. Therefore,\nsymptom: 발작"
+  },
+  {
+    "symptom": "수술 후 합병증",
+    "example": {
+      "chief_complaint": "Back Pain",
+      "additional_notes": "수술 부위에서 bleeding과 통증 심화됨\n"
+    },
+    "reasoning": "The chief_complaint 'Back Pain' in the context of a recent operation suggests a possible postoperative issue. The additional_notes, '수술 부위에서 bleeding과 통증 심화됨,' indicate complications such as increased bleeding and pain at the surgical site, supporting 수술 후 합병증. Therefore,\nsymptom: 수술 후 합병증"
+  },
+  {
+    "symptom": "의료 장비 문제",
+    "example": {
+      "chief_complaint": "PEG tube가 빠짐",
+      "additional_notes": ""
+    },
+    "reasoning": "The chief_complaint 'PEG tube가 빠짐' highlights an issue with a medical device, specifically the displacement of a percutaneous endoscopic gastrostomy tube. This situation clearly reflects 의료 장비 문제. Therefore,\nsymptom: 의료 장비 문제"
+  },
+  {
+    "symptom": "다뇨증",
+    "example": {
+      "chief_complaint": "Polyuria",
+      "additional_notes": "하루 10회 이상 소변. 갈증 호소"
+    },
+    "reasoning": "The chief_complaint 'Polyuria' signifies excessive urination. The additional_notes, '하루 10회 이상 소변' and accompanying thirst, confirm an abnormally high urinary frequency consistent with 다뇨증. Therefore,\nsymptom: 다뇨증"
+  },
+  {
+    "symptom": "기침 / 코막힘",
+    "example": {
+      "chief_complaint": "Cough",
+      "additional_notes": "2일 전부터 기침 심해짐. 기침 시 통증. "
+    },
+    "reasoning": "The chief_complaint 'Cough' has intensified over the last two days. The additional_notes, '2일 전부터 기침 심해짐. 기침 시 통증,' suggest respiratory irritation and possible nasal congestion, which align with 기침 / 코막힘. Therefore,\nsymptom: 기침 / 코막힘"
+  },
+  {
+    "symptom": "열",
+    "example": {
+      "chief_complaint": "Fever",
+      "additional_notes": "체온 37.6°C"
+    },
+    "reasoning": "The chief_complaint 'Fever' indicates elevated body temperature. The additional_notes confirm '체온 37.6°C,' which is above normal, indicating 열. Therefore,\nsymptom: 열"
+  },
+  {
+    "symptom": "기억상실",
+    "example": {
+      "chief_complaint": "Amnesia",
+      "additional_notes": "최근 일들을 거의 기억 못하며 4~5시간 전 일도 정확히 떠올리지 못한다고 함"
+    },
+    "reasoning": "The chief_complaint 'Amnesia' involves a partial or total loss of memory. The additional_notes state '최근 일들을 거의 기억 못하며 4~5시간 전 일도 정확히 떠올리지 못한다,' underscoring significant memory impairment consistent with 기억상실. Therefore,\nsymptom: 기억상실"
+  }
+]
