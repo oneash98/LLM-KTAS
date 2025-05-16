@@ -1,1 +1,2500 @@
-[{"symptom": "20\uc8fc \ubbf8\ub9cc\uc758 \uc784\uc2e0", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc8fc\uae30\uc801\uc778 \ubcf5\ubd80 \ubb49\uce68 \ub610\ub294 \ud5c8\ub9ac \ud1b5\uc99d\uc744 \ub3d9\ubc18\ud55c \uace8\ubc18\uc758 \uc555\ubc15\uac10", "KTAS_level": 2}, {"consideration": "\ub2e4\ub7c9\uc758 \uc9c8 \ucd9c\ud608", "KTAS_level": 2}, {"consideration": "\uacbd\uc99d / \uc911\ub4f1\ub3c4\uc758 \uc9c8 \ucd9c\ud608", "KTAS_level": 3}, {"consideration": "\ubcf5\ubd80\uc758 \ubb49\uce68", "KTAS_level": 3}, {"consideration": "\uc591\uc218\ub204\ucd9c\uc758 \uac00\ub2a5\uc131", "KTAS_level": 3}, {"consideration": "\uc9c8 \ucd9c\ud608 (\uc810\uc0c1\ucd9c\ud608)", "KTAS_level": 4}, {"consideration": "\ud551\ud06c\ube5b \uc810\uc561\uc131 \ubd84\ube44\ubb3c", "KTAS_level": 5}, {"consideration": "\uc9c8 \ubd84\ube44\ubb3c", "KTAS_level": 5}]}, {"symptom": "20\uc8fc \uc774\uc0c1\uc758 \uc784\uc2e0", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ud0dc\uc544\uc758 \uc77c\ubd80\ubd84\uc774 \ubcf4\uc774\uac70\ub098 \ud0ef\uc904 \ud0c8\ucd9c", "KTAS_level": 1}, {"consideration": "\uc9c0\uc18d\ub418\ub294 \uc9c8 \ucd9c\ud608", "KTAS_level": 1}, {"consideration": "\ubc1c\uc791 \uc911 \ub610\ub294 \ubc1c\uc791 \ud6c4 \uc0c1\ud0dc", "KTAS_level": 1}, {"consideration": "\uc784\uc2e0 \uc8fc\uc218 >20\uc8fc, \ubcf5\ubd80 \uad00\ud1b5\uc0c1", "KTAS_level": 1}, {"consideration": "\ud0dc\ub3d9\uc774 \uc5c6\uc74c", "KTAS_level": 1}, {"consideration": "\uc9c4\ud1b5 (\uc790\uad81\uc218\ucd95 \u22645\ubd84)", "KTAS_level": 2}, {"consideration": "\uc608\uc815\uc774 \uc5c6\uc5c8\uac70\ub098 \uc758\ub3c4\uce58 \uc54a\uc740 \ucd9c\uc0b0", "KTAS_level": 2}, {"consideration": "\ud0dc\ub3d9\uc774 \uac10\uc18c\ud568", "KTAS_level": 2}, {"consideration": "\uc218\ucd95\uae30 \ud608\uc555 > 160mmHg \ub610\ub294 \uc774\uc644\uae30 \ud608\uc555 > 100mmHg", "KTAS_level": 2}, {"consideration": "\ub450\ud1b5 \u00b1 \ubd80\uc885 \u00b1 \uc0c1\ubcf5\ubd80 \ud1b5\uc99d \u00b1 \uc2dc\uac01\uc7a5\uc560 \u00b1 \ub1cc\uc878\uc911 \uc99d\uc0c1", "KTAS_level": 2}, {"consideration": "\uc784\uc2e0\uc8fc\uc218 > 20\uc8fc, \uc8fc\uc694 \ubcf5\ubd80 \ub454\uc0c1", "KTAS_level": 2}, {"consideration": "\uace0\uc704\ud5d8 \ubb3c\uc9c8\uc758 \uc624\uc6a9", "KTAS_level": 2}, {"consideration": "\uc9c4\ud1b5 (\uc790\uad81\uc218\ucd95 >5\ubd84)", "KTAS_level": 3}, {"consideration": "\uc9c8 \ucd9c\ud608, \ud604\uc7ac\ub294 \uba48\ucda4", "KTAS_level": 3}, {"consideration": "\uc218\ucd95\uae30 \ud608\uc555 > 140mmHg \ub610\ub294 \uc774\uc644\uae30 \ud608\uc555 > 90mmHg", "KTAS_level": 3}, {"consideration": "\ubcf5\ubd80\ub97c \uc81c\uc678\ud55c \ubd80\uc704\uc758 \uacbd\uc99d \uc678\uc0c1", "KTAS_level": 3}, {"consideration": "\uc591\uc218 \ub204\ucd9c", "KTAS_level": 3}, {"consideration": "\uc784\uc2e0\uc8fc\uc218 >20\uc8fc", "KTAS_level": 4}]}, {"symptom": "\uac10\uac01\uc0c1\uc2e4 / \uc774\uc0c1\uac10\uac01", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uc0c8\ub85c \ubc1c\ubcd1\ud55c \uac10\uac01\uc18c\uc2e4 / \uc774\uc0c1\uac10\uac01", "KTAS_level": 3}, {"consideration": "\ub9cc\uc131 \uac10\uac01\uc18c\uc2e4 / \uc774\uc0c1\uac10\uac01", "KTAS_level": 4}]}, {"symptom": "\uac10\uc5fc \uac00\ub2a5\uc131 \ud655\uc778", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uac10\uc5fc \uac00\ub2a5\uc131 \ud655\uc778", "KTAS_level": 5}]}, {"symptom": "\uac10\uc5fc\uc131 \uc9c8\ud658\uc5d0 \ub178\ucd9c", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uac10\uc5fc\uc131 \uc9c8\ud658\uc5d0 \ub178\ucd9c", "KTAS_level": 5}]}, {"symptom": "\uac1d\ud608", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\uac1d\ud608, \uac74\uac15\ud574 \ubcf4\uc784", "KTAS_level": 4}]}, {"symptom": "\uacbd\uc99d \ubc0f \ube44\ud2b9\uc774\uc801 \uc99d\uc0c1 \ud638\uc18c", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uacbd\uc99d \ubc0f \ube44\ud2b9\uc774\uc801 \uc99d\uc0c1 \ud638\uc18c", "KTAS_level": 5}]}, {"symptom": "\uace0\ud608\ub2f9", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ud608\ub2f9 > 324mg/dl, \uc99d\uc0c1 \uc788\uc74c", "KTAS_level": 2}, {"consideration": "\ud608\ub2f9 > 324mg/dl, \ubb34\uc99d\uc0c1", "KTAS_level": 3}]}, {"symptom": "\uace0\ud608\uc555", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uace0\ud608\uc555 (\uc218\ucd95\uae30\ud608\uc555 \u2265220 \ud639\uc740 \uc774\uc644\uae30\ud608\uc555 \u2265130) \uc99d\uc0c1 \uc788\uc74c + \ub2e4\uc74c \uc911 \ud55c\uac00\uc9c0 \uc874\uc7ac (\uc228\ucc38, \uac00\uc2b4 \ud1b5\uc99d, \ud63c\ubbf8, \uae09\uc131 \ub450\ud1b5, \uad6c\uc5ed/\uad6c\ud1a0)", "KTAS_level": 2}, {"consideration": "\uace0\ud608\uc555 (\uc218\ucd95\uae30\ud608\uc555 \u2265220 \ud639\uc740 \uc774\uc644\uae30\ud608\uc555 \u2265130), \ub3d9\ubc18\ub41c \ub2e4\ub978 \uc99d\uc0c1 \uc5c6\uc74c", "KTAS_level": 3}, {"consideration": "\uace0\ud608\uc555 (\uc218\ucd95\uae30\ud608\uc555 200-220 \uadf8\ub9ac\uace0 \uc774\uc644\uae30\ud608\uc555 110-130), \uace0\ud608\uc555 \uc99d\uc0c1 \ub3d9\ubc18", "KTAS_level": 3}, {"consideration": "\uace0\ud608\uc555 (\uc218\ucd95\uae30\ud608\uc555 200-220 \uadf8\ub9ac\uace0 \uc774\uc644\uae30\ud608\uc555 110-130), \ubb34\uc99d\uc0c1", "KTAS_level": 4}]}, {"symptom": "\uace0\ud658 \ud1b5\uc99d / \ubd80\uc885", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uace0\ud658 \ud1b5\uc99d / \ubd80\uc885", "KTAS_level": 5}]}, {"symptom": "\uacfc\ub2e4 \ubcf5\uc6a9", "ROS": "\ubb3c\uc9c8\uc624\uc6a9", "secondary_considerations": [{"consideration": "\uace0\uc704\ud5d8 \ubb3c\uc9c8 / \uc54c \uc218 \uc5c6\ub294 \ubb3c\uc9c8", "KTAS_level": 2}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uacc4\ud68d\uc801\uc778 \uc790\uc0b4\uc2dc\ub3c4", "KTAS_level": 2}, {"consideration": "\uad6c\uccb4\uc801\uc778 \uacc4\ud68d\uc774 \uc5c6\ub294 \uc790\uc0b4\uad00\ub150", "KTAS_level": 3}, {"consideration": "\uacfc\ub2e4 \ubcf5\uc6a9", "KTAS_level": 4}]}, {"symptom": "\uacfc\ub2e4\ud638\ud761\uc99d\ud6c4\uad70", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\ud68c\ubcf5\ub41c \uacfc\ub2e4\ud638\ud761\uc99d\ud6c4\uad70, \uac74\uac15\ud574 \ubcf4\uc784", "KTAS_level": 4}]}, {"symptom": "\uad00\uc808 \ubd80\uc885", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uad00\uc808 \ubd80\uc885", "KTAS_level": 5}]}, {"symptom": "\uad6c\ud1a0 / \uad6c\uc5ed", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc911\uc99d \ud0c8\uc218", "KTAS_level": 1}, {"consideration": "\uc9c0\uc18d\ub418\ub294 \uc0c1\ub2f9\ub7c9\uc758 \ud1a0\ud608", "KTAS_level": 2}, {"consideration": "\uc911\ub4f1\ub3c4 \ud0c8\uc218", "KTAS_level": 2}, {"consideration": "\ucee4\ud53c \ucc0c\uaebc\uae30 \ubaa8\uc591 \uad6c\ud1a0 / \ud751\uc0c9\ubcc0", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ud0c8\uc218", "KTAS_level": 3}, {"consideration": "\ud0c8\uc218 \uac00\ub2a5\uc131 \uc788\uc74c", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131 \uad6c\ud1a0 / \uad6c\uc5ed, \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 5}]}, {"symptom": "\uad6d\uc18c\uc131 \ubd80\uc885 / \ubc1c\uc801", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc5bc\uad74 \uc5f0\uc870\uc9c1\uc5fc, \ud2b9\ud788, \uc548\uc640\uc8fc\uc704", "KTAS_level": 2}, {"consideration": "\uc790\ubc18\uc131 \ub610\ub294 \uc810 \ubc1c\uc9c4, \uc544\ud30c \ubcf4\uc784", "KTAS_level": 2}, {"consideration": "\uad6d\uc18c\uc131 \uc5f0\uc870\uc9c1\uc5fc", "KTAS_level": 4}, {"consideration": "\uad6d\uc18c\uc131 \ubc1c\uc9c4", "KTAS_level": 5}]}, {"symptom": "\uadc0\uc758 \uc190\uc0c1", "ROS": "\uadc0", "secondary_considerations": [{"consideration": "\uc808\ub2e8", "KTAS_level": 2}, {"consideration": "\ucc3d\ubc31\ud558\uac70\ub098 \uccad\uc0c9\uc99d\uc744 \ub3d9\ubc18\ud55c \ub3d9\uc0c1, \uc911\uc99d", "KTAS_level": 3}, {"consideration": "\uc0c9 \ubcc0\ud654\ub97c \ub3d9\ubc18\ud558\uc9c0 \uc54a\uc740 \ub3d9\uc0c1, \uacbd\uc99d", "KTAS_level": 4}, {"consideration": "\ubd09\ud569\uc774 \ud544\uc694\ud55c \uc5f4\uc0c1", "KTAS_level": 4}, {"consideration": "\ubd09\ud569\uc774 \ubd88\ud544\uc694\ud55c \uc5f4\uc0c1 / \ucc30\uacfc\uc0c1", "KTAS_level": 5}]}, {"symptom": "\uadc0\uc758 \uc774\ubb3c\uc9c8", "ROS": "\uadc0", "secondary_considerations": [{"consideration": "\uadc0\uc758 \uc774\ubb3c\uc9c8", "KTAS_level": 5}]}, {"symptom": "\uae30\uad34\ud55c \ud589\ub3d9", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uc870\uc808\ub418\uc9c0 \uc54a\ub294 \ud589\ub3d9", "KTAS_level": 1}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uc870\uc808\ub418\ub294 \ud589\ub3d9", "KTAS_level": 3}, {"consideration": "\ud574\ub97c \ub07c\uce58\uc9c0 \uc54a\uc740 \ud589\ub3d9", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131, \ube44\uae09\uc131 \uc0c1\ud0dc", "KTAS_level": 5}]}, {"symptom": "\uae30\uc5b5\uc0c1\uc2e4", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uc0c8\ub85c \ubc1c\ubcd1\ud55c \uae30\uc5b5\uc0c1\uc2e4", "KTAS_level": 4}]}, {"symptom": "\uae30\uce68 / \ucf54\ub9c9\ud798", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\ub9cc\uc131 \uae30\uce68 / \ucf54\ub9c9\ud798, \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 5}]}, {"symptom": "\uae30\ud0c0 \ud53c\ubd80 \uc0c1\ud0dc", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uae30\ud0c0 \ud53c\ubd80 \uc0c1\ud0dc", "KTAS_level": 5}]}, {"symptom": "\ub208 \ucda9\ud608 / \ubd84\ube44\ubb3c", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\ub208 \ucda9\ud608 / \ubd84\ube44\ubb3c ,\uae09\uc131", "KTAS_level": 4}, {"consideration": "\ub208 \ucda9\ud608 / \ubd84\ube44\ubb3c, \ub9cc\uc131", "KTAS_level": 5}]}, {"symptom": "\ub208 \ud1b5\uc99d", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uae09\uc131 / \uac11\uc791\uc2a4\ub7f0 \uc2dc\ub825\ubcc0\ud654", "KTAS_level": 2}, {"consideration": "\ub208 \ud1b5\uc99d, \ub9cc\uc131", "KTAS_level": 5}]}, {"symptom": "\ub208\ubd80\uc2ec", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\ub208\ubd80\uc2ec", "KTAS_level": 4}]}, {"symptom": "\ub208\uc758 \uc678\uc0c1", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uad00\ud1b5 \uc190\uc0c1\uc774\ub098 \ud654\ud559\ubb3c\uc9c8, \uc9c1\uc811\uc801\uc778 \uace0\uc5f4\uc5d0 \uc758\ud55c \uc190\uc0c1", "KTAS_level": 2}, {"consideration": "\ub454\uc0c1\uc5d0 \uc758\ud55c \uc2dc\ub825\uc18c\uc2e4", "KTAS_level": 2}, {"consideration": "\uae09\uc131 / \uac11\uc791\uc2a4\ub7f0 \uc2dc\ub825 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\ubd84\ub958 \ub2f4\ub2f9\uc790\uac00 \ub208\uc744 \ud655\uc778\ud560 \uc218 \uc5c6\ub294 \uc0c1\ud0dc", "KTAS_level": 2}, {"consideration": "\ub208\uc758 \uc678\uc0c1", "KTAS_level": 4}]}, {"symptom": "\ub208\uc758 \uc774\ubb3c\uc9c8", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uc774\ubb3c\uc9c8\uc758 \uc548\uad6c \uad00\ud1b5", "KTAS_level": 2}, {"consideration": "\uae09\uc131 \ub610\ub294 \uac11\uc791\uc2a4\ub7f0 \uc2dc\ub825\ubcc0\ud654", "KTAS_level": 2}]}, {"symptom": "\ub208\uc758 \ud654\ud559\ubb3c\uc9c8 \ub178\ucd9c", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\ub208\uc758 \ud654\ud559\ubb3c\uc9c8 \ub178\ucd9c", "KTAS_level": 2}]}, {"symptom": "\ub2e4\ub1e8\uc99d", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ub2e4\ub1e8\uc99d", "KTAS_level": 4}]}, {"symptom": "\ub2e4\ub9ac \ubd80\uae30 / \ubd80\uc885", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc77c\uce21\uc131 \ub2e4\ub9ac \ubd80\uae30 / \ubd80\uc885", "KTAS_level": 3}, {"consideration": "\uc591\uce21\uc131 \ub2e4\ub9ac \ubd80\uae30 / \ubd80\uc885", "KTAS_level": 5}, {"consideration": "\ub9cc\uc131", "KTAS_level": 5}]}, {"symptom": "\ub2e8\ub3c5 \ubcf5\ubd80 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\ub2e8\ub3c5 \ubcf5\ubd80 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "KTAS_level": 2}]}, {"symptom": "\ub2e8\ub3c5 \ubcf5\ubd80 \uc678\uc0c1 - \ub454\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\ub2e8\ub3c5 \ubcf5\ubd80 \uc678\uc0c1 - \ub454\uc0c1 (\uac74\uac15\ud574 \ubcf4\uc784)", "KTAS_level": 4}]}, {"symptom": "\ub2e8\ub3c5 \ud749\ubd80 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\ub2e8\ub3c5 \ud749\ubd80 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "KTAS_level": 2}]}, {"symptom": "\ub2e8\ub3c5 \ud749\ubd80 \uc678\uc0c1 - \ub454\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\ud749\ubcbd \ud1b5\uc99d\uc5d0 \uae30\uc778\ud55c \ub9d0\ucd08\uc131 \ud1b5\uc99d", "KTAS_level": 3}, {"consideration": "\ub2e8\ub3c5 \ud749\ubd80 \uc678\uc0c1 - \ub454\uc0c1 (\uac74\uac15\ud574 \ubcf4\uc784)", "KTAS_level": 4}]}, {"symptom": "\ub3d9\uc0c1 / \ud55c\ub7ad\uc190\uc0c1", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uc0ac\uc9c0 \ub9d0\ub2e8\ubd80\uc704\uc5d0 \ub9e5\ubc15\uc774 \uc5c6\uace0 \ucc28\uac00\uc6c0", "KTAS_level": 2}, {"consideration": "\ud53c\ubd80\uac00 \ucc3d\ubc31\ud568", "KTAS_level": 3}, {"consideration": "\ub3d9\uc0c1 / \ud55c\ub7ad\uc190\uc0c1", "KTAS_level": 5}]}, {"symptom": "\ub450\ubd80 \uc190\uc0c1", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uc0c8\ub85c\uc6b4 \uad6d\uc18c\uc801 \uc2e0\uacbd\ud559\uc801 \uc99d\uc0c1", "KTAS_level": 2}, {"consideration": "\uc758\uc2dd\uc18c\uc2e4\uc758 \ubcd1\ub825", "KTAS_level": 3}, {"consideration": "\uc7a5\uae30\uac04\uc758 \ucc99\ucd94\uace0\uc815", "KTAS_level": 3}, {"consideration": "\uc758\uc2dd\uc18c\uc2e4\uc758 \ubcd1\ub825\uc774 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\ub450\ud1b5", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uae09\uc131, \uc911\uc99d, \uc9c0\uae08\uae4c\uc9c0 \uacbd\ud5d8\ud588\ub358 \ub450\ud1b5 \uc911 \uac00\uc7a5 \uc2ec\ud568", "KTAS_level": 2}, {"consideration": "\uc2dc\ub825\uc7a5\uc560 \u00b1 \uc548\uad6c \ud1b5\uc99d", "KTAS_level": 2}, {"consideration": "\ub9cc\uc131 \ub610\ub294 \ubc18\ubcf5\uc801\uc778 \ub450\ud1b5", "KTAS_level": 5}]}, {"symptom": "\ub4dc\ub808\uc2f1 \uad50\uccb4", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ub4dc\ub808\uc2f1 \uad50\uccb4", "KTAS_level": 5}]}, {"symptom": "\ub538\uafb9\uc9c8", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ub538\uafb9\uc9c8, \ub9cc\uc131, \ud798\ub4e4\uc5b4 \ubcf4\uc774\uc9c0 \uc54a\uc74c", "KTAS_level": 5}]}, {"symptom": "\ub5a8\ub9bc", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\ub9cc\uc131 \ub5a8\ub9bc", "KTAS_level": 4}]}, {"symptom": "\ub9e5\ubc15\uc774 \uc5c6\uac70\ub098 \ucc28\uac00\uc6b4 \uc0ac\uc9c0", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc0ac\uc9c0 \ub9d0\ub2e8\uc5d0 \ub9e5\ubc15\uc774 \uc5c6\uc74c", "KTAS_level": 2}, {"consideration": "\uc0ac\uc9c0\uac00 \ucc28\uac00\uc6c0", "KTAS_level": 2}]}, {"symptom": "\ubaa9, \ub4f1, \ud5c8\ub9ac \ud1b5\uc99d", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud559\uc801 \uc190\uc0c1 \u00b1 \uc7a5\uacfc \ubc29\uad11\uc758 \uae30\ub2a5\uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\ubaa9, \ub4f1, \ud5c8\ub9ac \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\ubaa9\uc758 \ubd80\uc885 / \ud1b5\uc99d", "ROS": "\uc785,\ubaa9/\uc5bc\uad74", "secondary_considerations": [{"consideration": "\uacbd\ubd80 \uac15\uc9c1 / \uc218\ub9c9\uc790\uadf9\uc99d \u00b1 \uc5f4", "KTAS_level": 2}, {"consideration": "\ub9cc\uc131 \uc911\uc2ec\uc131 \uacbd\uc99d \ud1b5\uc99d\uc744 \ub3d9\ubc18\ud55c \ubaa9\uc758 \ubd80\uc885 / \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\ubaa9\uc758 \uc678\uc0c1", "ROS": "\uc785,\ubaa9/\uc5bc\uad74", "secondary_considerations": [{"consideration": "\uc774\uc0c1\uac10\uac01, \uc2e0\uacbd\ud559\uc801 \uc9d5\ud6c4", "KTAS_level": 2}, {"consideration": "\ubaa9\uc270\uc18c\ub9ac\uc640 \uc5b8\uc5b4\uc7a5\uc560", "KTAS_level": 2}]}, {"symptom": "\ubab8\ud1b5\uc744 \ud3ec\ud568\ud55c \ub2e4\ubc1c\uc131 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud559\uc801 \uc190\uc0c1\uacfc \ub3d9\ubc18\ub41c \ucc99\ucd94 \uace8\uc808, \ub450\ubd80\uc758 \uad00\ud1b5\uc0c1", "KTAS_level": 1}, {"consideration": "\uc0ac\uc9c0\uc758 \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uba38\ub9ac, \uac00\uc2b4, \ubcf5\ubd80\uc758 \uad00\ud1b5\uc0c1", "KTAS_level": 2}, {"consideration": "\ubab8\ud1b5\uc744 \ud3ec\ud568\ud55c \ub2e4\ubc1c\uc131 \uc678\uc0c1 - \uad00\ud1b5\uc0c1", "KTAS_level": 3}]}, {"symptom": "\ubab8\ud1b5\uc744 \ud3ec\ud568\ud55c \ub2e4\ubc1c\uc131 \uc678\uc0c1 - \ub454\uc0c1", "ROS": "\ubab8\ud1b5\uc678\uc0c1", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud559\uc801 \uc190\uc0c1\uacfc \ub3d9\ubc18\ub41c \ucc99\ucd94 \uace8\uc808", "KTAS_level": 1}, {"consideration": "\uc0ac\uc9c0\uc758 \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uc7a5\uae30\uac04\uc758 \ucc99\ucd94\uace0\uc815", "KTAS_level": 3}, {"consideration": "\ubab8\ud1b5\uc744 \ud3ec\ud568\ud55c \ub2e4\ubc1c\uc131 \uc678\uc0c1 - \ub454\uc0c1", "KTAS_level": 4}]}, {"symptom": "\ubb3c\ub9bc", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc911\uc99d \uc54c\ub808\ub974\uae30 \ubc18\uc751\uc758 \uae30\uc655\ub825", "KTAS_level": 2}, {"consideration": "\uacbd\uc99d \ubb3c\ub9bc", "KTAS_level": 5}]}, {"symptom": "\ubb3c\uc9c8 \uae08\ub2e8", "ROS": "\ubb3c\uc9c8\uc624\uc6a9", "secondary_considerations": [{"consideration": "\uacbd\ub828\uc911", "KTAS_level": 1}, {"consideration": "\ucd5c\uadfc \ubc1c\uc791, \ubc1c\uc791 \ud6c4 \uc0c1\ud0dc, \ucd08\uc870", "KTAS_level": 2}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uc911\uc99d \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 2}, {"consideration": "\uc911\ub4f1\ub3c4 \ubd88\uc548 /\ucd08\uc870", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 4}]}, {"symptom": "\ubb3c\uc9c8 \uc624\uc6a9 / \uc911\ub3c5", "ROS": "\ubb3c\uc9c8\uc624\uc6a9", "secondary_considerations": [{"consideration": "\uace0\uc704\ud5d8 \ubb3c\uc9c8 / \uc54c \uc218 \uc5c6\ub294 \ubb3c\uc9c8", "KTAS_level": 2}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uc54c\ub824\uc9c4 \uc800\ub3c5\uc131 \ubb3c\uc9c8", "KTAS_level": 4}]}, {"symptom": "\ubc18\uc9c0 \uc81c\uac70", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ubc18\uc9c0 \uc81c\uac70", "KTAS_level": 5}]}, {"symptom": "\ubc1c\uc791", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uc9c0\uae08 \ubc1c\uc791 \uc911", "KTAS_level": 1}, {"consideration": "\ubc1c\uc791 \ud6c4 \uc0c1\ud0dc", "KTAS_level": 2}, {"consideration": "\ud68c\ubcf5\ub41c \uc0c1\ud0dc, \uba85\ub8cc\ud55c \uc758\uc2dd", "KTAS_level": 3}]}, {"symptom": "\ubc1c\uc9c4", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc5bc\uad74 \uc5f0\uc870\uc9c1\uc5fc, \uc548\uc640\uc8fc\uc704\ubd80 \ud3ec\ud568", "KTAS_level": 2}, {"consideration": "\uc790\ubc18\uc131 \ub610\ub294 \uc810\ubc1c\uc9c4, \uc544\ud30c \ubcf4\uc784", "KTAS_level": 2}, {"consideration": "\ud608\uad00\ubd80\uc885", "KTAS_level": 3}, {"consideration": "\ub450\ub4dc\ub7ec\uae30", "KTAS_level": 4}, {"consideration": "\uad6d\uc18c\uc131 \uc5f0\uc870\uc9c1\uc5fc", "KTAS_level": 4}, {"consideration": "\uad6d\uc18c\uc131 \ubc1c\uc9c4", "KTAS_level": 5}]}, {"symptom": "\ubcc0\ube44", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ub2e8\uc21c\ubcc0\ube44", "KTAS_level": 5}]}, {"symptom": "\ubcf4\ud589 \uc7a5\uc560 / \uc6b4\ub3d9 \uc2e4\uc870 / \uac15\uc9c1", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\ubc1c\ubcd1\uc2dc\uac04 <24 \uc2dc\uac04", "KTAS_level": 2}]}, {"symptom": "\ubcf5\ubd80 \uc885\uad34 / \ud33d\ub9cc", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc9c0\uc18d\uc801\uc778 \uad6c\ud1a0", "KTAS_level": 3}, {"consideration": "\ub9cc\uc131 \ubcf5\ubd80 \uc885\uad34 / \ud33d\ub9cc, \uac74\uac15\ud574 \ubcf4\uc784", "KTAS_level": 5}]}, {"symptom": "\ubcf5\uc2dc", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uae09\uc131 \ubc1c\ubcd1, \uc9c0\uc18d\ub418\ub294 \uc99d\uc0c1", "KTAS_level": 3}, {"consideration": "\ub9cc\uc131 \ubcf5\uc2dc", "KTAS_level": 4}]}, {"symptom": "\ubcf5\ud1b5", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ub9cc\uc131 \uacbd\uc99d \ubcf5\ubd80 \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\ubd88\uba74\uc99d", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uae09\uc131 \ubd88\uba74\uc99d", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131 \ubd88\uba74\uc99d", "KTAS_level": 5}]}, {"symptom": "\ubd88\uc548 / \uc704\uae30 \uc0c1\ud669", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uc911\uc99d \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 2}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud611", "KTAS_level": 2}, {"consideration": "\uc911\ub4f1\ub3c4 \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 4}]}, {"symptom": "\ube44\uc815\uc0c1 \uac80\uc0ac \uacb0\uacfc", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ubc14\ub85c \uce58\ub8cc\uac00 \uc2dc\uc791\ub418\uc5b4\uc57c \ud560 \uc704\ud5d8\uc218\uce58\ub098 \uc774\uc0c1\uc18c\uacac", "KTAS_level": 2}, {"consideration": "\uc704\ud5d8\uc218\uce58\ub098 \uc774\uc0c1\uc18c\uacac\uc5d0 \ud574\ub2f9\ub418\ub098 \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 3}, {"consideration": "\uc704\ud5d8\uc218\uce58\ub098 \uc774\uc0c1\uc18c\uacac\uc5d0 \ud574\ub2f9\ub418\uc9c0 \uc54a\uc73c\uba70 \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 5}]}, {"symptom": "\uc0ac\uc9c0 \uc57d\ud654 / \ub1cc\uc878\uc911 \uc99d\uc0c1", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\ubc1c\ubcd1\uc2dc\uac04 24\uc2dc\uac04 \uc774\ub0b4", "KTAS_level": 2}, {"consideration": "\ubc1c\ubcd1\uc2dc\uac04 24\uc2dc\uac04 \ucd08\uacfc", "KTAS_level": 3}, {"consideration": "\ud68c\ubcf5\ub41c \uc0c1\ud0dc", "KTAS_level": 3}]}, {"symptom": "\uc0ac\ud68c\ubb38\uc81c", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uc721\uccb4\uc801 \ud559\ub300, \uc815\uc2e0\uc801 \ud559\ub300, \uc2ec\uac01\ud55c \uac10\uc815\uc801 \uc2a4\ud2b8\ub808\uc2a4", "KTAS_level": 3}, {"consideration": "\ub300\ucc98\ud558\uae30 \uc5b4\ub824\uc6b4 \uc0c1\ud0dc", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131, \ube44\uae09\uc131 \uc0c1\ud0dc", "KTAS_level": 5}]}, {"symptom": "\uc0c1\uae30\ub3c4\uac10\uc5fc \uc99d\uc0c1 \ud638\uc18c", "ROS": "\ucf54", "secondary_considerations": [{"consideration": "\uac74\uac15\ud574 \ubcf4\uc784, \uc5f4 \uc5c6\uc74c", "KTAS_level": 5}]}, {"symptom": "\uc0c1\uc9c0 \uc190\uc0c1", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uac1c\ubc29\uc131 \uace8\uc808 \ub610\ub294 \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uba85\ubc31\ud55c \ubcc0\ud615", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uace0, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud568", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uc9c0\ub9cc, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub294 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\uc0c1\uc9c0\uc758 \uc678\uc0c1", "KTAS_level": 5}]}, {"symptom": "\uc0c1\uc9c0 \ud1b5\uc99d", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud608\uad00 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uace0, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud568", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uc9c0\ub9cc, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub294 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\uc0c1\uc9c0\uc758 \ub9cc\uc131 \uacbd\uc99d \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\uc0c1\ucc98 \ud655\uc778", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc0c1\ucc98 \ud655\uc778", "KTAS_level": 5}]}, {"symptom": "\uc0c5\uace0\ub791 \ubd80\uc704 \ud1b5\uc99d / \uc885\uad34", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc0c5\uace0\ub791 \ubd80\uc704 \ud1b5\uc99d / \uc885\uad34", "KTAS_level": 5}]}, {"symptom": "\uc0dd\uc2dd\uae30\uc758 \ubd84\ube44\ubb3c / \ud53c\ubd80\ubcd1\ubcc0", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc0dd\uc2dd\uae30\uc758 \ubd84\ube44\ubb3c / \ud53c\ubd80\ubcd1\ubcc0", "KTAS_level": 5}]}, {"symptom": "\uc0dd\uc2dd\uae30\uc758 \uc678\uc0c1", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc131\ud3ed\ud589, \uc548\uc815\ub418\uc5b4 \uc788\uc74c", "KTAS_level": 3}, {"consideration": "\uc0dd\uc2dd\uae30\uc758 \uc678\uc0c1, \ud1b5\uc99d \uc5c6\uc74c", "KTAS_level": 5}]}, {"symptom": "\uc11d\uace0 \ubd95\ub300 \ud655\uc778", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud568", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uc9c0\ub9cc, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub294 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\uc11d\uace0\ubd95\ub300 \uccb4\ud06c \ub610\ub294 \uc11d\uace0\ubd95\ub300 \uad50\ud658", "KTAS_level": 5}]}, {"symptom": "\uc124\uc0ac", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc911\uc99d \ud0c8\uc218", "KTAS_level": 1}, {"consideration": "\uc911\ub4f1\ub3c4 \ud0c8\uc218", "KTAS_level": 2}, {"consideration": "\uba48\ucd94\uc9c0 \uc54a\ub294 \ud608\uc131 \uc124\uc0ac", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ud0c8\uc218", "KTAS_level": 3}, {"consideration": "\ud0c8\uc218 \uac00\ub2a5\uc131 \uc788\uc74c", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131 \uc124\uc0ac, \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 5}]}, {"symptom": "\uc131\ud3ed\ud589", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "<2\uc2dc\uac04", "KTAS_level": 2}, {"consideration": "\u22652\uc2dc\uac04\ubd80\ud130 <12\uc2dc\uac04", "KTAS_level": 3}, {"consideration": "\u226512\uc2dc\uac04; \uc190\uc0c1 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\uc18c\ubcc0\ubc30\ucd9c\uc7a5\uc560", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc18c\ubcc0\ubc30\ucd9c\uc7a5\uc560", "KTAS_level": 4}]}, {"symptom": "\uc18c\uc591\uc99d", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc18c\uc591\uc99d", "KTAS_level": 5}]}, {"symptom": "\uc218\uc220 \ud6c4 \ud569\ubcd1\uc99d", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4, \ud1b5\uc99d \uc5c6\uc74c, \uc77c\uc0c1\uc801\uc778 \uccb4\ud06c", "KTAS_level": 4}]}, {"symptom": "\uc228\ucc38", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "FEV1 \ud639\uc740 PEFR\uc774 40% \ubbf8\ub9cc\uc73c\ub85c \uc608\uc0c1\ub418\ub294 \ucc9c\uc2dd \ud658\uc790 (\uc911\uc99d)", "KTAS_level": 2}, {"consideration": "FEV1 \ud639\uc740 PEFR\uc774 40-60% \ub85c \uc608\uc0c1\ub418\ub294 \ucc9c\uc2dd \ud658\uc790 (\uc911\ub4f1\ub3c4)", "KTAS_level": 3}, {"consideration": "FEV1 \ud639\uc740 PEFR\uc774 60% \uc774\uc0c1\uc73c\ub85c \uc608\uc0c1\ub418\ub294 \ucc9c\uc2dd \ud658\uc790 (\uacbd\uc99d)", "KTAS_level": 4}]}, {"symptom": "\uc2a4\ud14c\uc774\ud50c / \ubd09\ud569\uc0ac \uc81c\uac70", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc2a4\ud14c\uc774\ud50c / \ubd09\ud569\uc0ac \uc81c\uac70", "KTAS_level": 5}]}, {"symptom": "\uc2dc\ub825\uc7a5\uc560", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uae09\uc131 / \uac11\uc791\uc2a4\ub7f0 \uc2dc\ub825\ubcc0\ud654", "KTAS_level": 2}, {"consideration": "\ub9cc\uc131 / \uc810\uc9c4\uc801 \uc2dc\ub825\ubcc0\ud654", "KTAS_level": 4}]}, {"symptom": "\uc2dd\uc695\ubd80\uc9c4", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc2ec\uac01\ud55c \uccb4\uc911 \uac10\uc18c", "KTAS_level": 3}, {"consideration": "\uc2dd\uc695\ubd80\uc9c4, \uac74\uac15\ud574 \ubcf4\uc784", "KTAS_level": 4}]}, {"symptom": "\uc2e4\uc2e0 / \uc804\uc2e4\uc2e0", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc0c8\ub85c \ubc1c\ubcd1\ud55c \ubd80\uc815\ub9e5, \ubd88\uaddc\uce59 \ub9e5\ubc15 / \ub9e5\ubc15\uc218\uc758 \ubcc0\ud654", "KTAS_level": 2}, {"consideration": "\uc804\uad6c\uc99d\uc0c1 \uc5c6\uc74c", "KTAS_level": 2}, {"consideration": "\uc6b4\ub3d9 \uc911 \ubc1c\uc0dd\ud568", "KTAS_level": 2}, {"consideration": "\uc804\uad6c\uc99d\uc0c1 \ub3d9\ubc18 \ub610\ub294 \uae09\uaca9\ud55c \uc790\uc138 \ubcc0\ud654\uc2dc \ubc1c\ubcd1", "KTAS_level": 3}, {"consideration": "\uc758\uc2dd\uc18c\uc2e4\uc758 \ubcd1\ub825", "KTAS_level": 3}, {"consideration": "\uc815\uc0c1 \ud65c\ub825, \uc99d\uc0c1 \ud68c\ubcf5", "KTAS_level": 4}]}, {"symptom": "\uc2ec\uacc4\ud56d\uc9c4 / \ubd88\uaddc\uce59\ud55c \uc2ec\uc7a5\ubc15\ub3d9", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc2ec\uc7a5\uc131 \uac00\uc2b4 \ud1b5\uc99d", "KTAS_level": 2}, {"consideration": "\uce58\uba85\uc801\uc77c \uc218 \uc788\ub294 \ubd80\uc815\ub9e5\uc758 \ubcd1\ub825\uc774\ub098 \uae30\ub85d", "KTAS_level": 2}, {"consideration": "\uae09\uc131 \ubc1c\ubcd1, \uc9c0\uc18d\ub418\ub294 \uc99d\uc0c1", "KTAS_level": 3}, {"consideration": "\uc2ec\uacc4\ud56d\uc9c4 \ubcd1\ub825, \ud604\uc7ac\ub294 \ud68c\ubcf5\ub41c \uc0c1\ud0dc", "KTAS_level": 4}]}, {"symptom": "\uc2ec\uc815\uc9c0(\ube44\uc678\uc0c1\uc131)", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc2ec\uc815\uc9c0 (\ube44\uc678\uc0c1\uc131)", "KTAS_level": 1}, {"consideration": "\uc2ec\ud3d0\uc18c\uc0dd\uc220\uc758 \ub300\uc0c1\uc774 \uc544\ub2cc \uacbd\uc6b0", "KTAS_level": 5}]}, {"symptom": "\uc2ec\uc815\uc9c0(\uc678\uc0c1\uc131)", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc2ec\uc815\uc9c0 (\uc678\uc0c1\uc131)", "KTAS_level": 1}, {"consideration": "\uc2ec\ud3d0\uc18c\uc0dd\uc220\uc758 \ub300\uc0c1\uc774 \uc544\ub2cc \uacbd\uc6b0", "KTAS_level": 5}]}, {"symptom": "\uc3d8\uc784", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc911\uc99d \uc54c\ub808\ub974\uae30 \ubc18\uc751\uc758 \uae30\uc655\ub825", "KTAS_level": 2}, {"consideration": "\uc3d8\uc784", "KTAS_level": 5}]}, {"symptom": "\uc548\uc640\uc8fc\uc704 \ubd80\uc885", "ROS": "\ub208", "secondary_considerations": [{"consideration": "\uc548\uc640\uc8fc\uc704 \ubd80\uc885", "KTAS_level": 5}]}, {"symptom": "\uc54c\ub808\ub974\uae30 \ubc18\uc751", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc774\uc804 \uc911\uc99d\uc758 \uae30\uc655\ub825", "KTAS_level": 2}, {"consideration": "\uc544\ub098\ud544\ub77d\uc2dc\uc2a4", "KTAS_level": 2}, {"consideration": "\ud608\uad00\ubd80\uc885", "KTAS_level": 3}, {"consideration": "\ub450\ub4dc\ub7ec\uae30", "KTAS_level": 4}, {"consideration": "\ucf54\ub9c9\ud798\uc744 \ub3d9\ubc18\ud55c \uc54c\ub808\ub974\uae30 \ube44\uc5fc", "KTAS_level": 5}]}, {"symptom": "\uc5f0\ud558\uc7a5\uc560 / \uc5f0\ud558\uace4\ub780", "ROS": "\uc785,\ubaa9/\uc5bc\uad74", "secondary_considerations": [{"consideration": "\uce68\ud758\ub9bc \ub610\ub294 \ud611\ucc29\uc74c", "KTAS_level": 2}, {"consideration": "\uc774\ubb3c\uc9c8\uc758 \uac00\ub2a5\uc131", "KTAS_level": 3}]}, {"symptom": "\uc5f4", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uc810 \ubc1c\uc9c4", "KTAS_level": 2}]}, {"symptom": "\uc5f4\uc0c1 / \ucc9c\uacf5", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud55c \ubcf5\ud569\ucc3d\uc0c1", "KTAS_level": 2}, {"consideration": "\uc9c0\uc18d\ub418\uace0 \uc788\ub294 \ucd9c\ud608", "KTAS_level": 3}, {"consideration": "\uc9c0\ud608\ub418\uc5c8\uac70\ub098 \uc870\uc808\ub418\uace0 \uc788\ub294 \ucd9c\ud608", "KTAS_level": 4}, {"consideration": "\ubd09\ud569 \ud544\uc694", "KTAS_level": 4}, {"consideration": "\ubd09\ud569 \ud544\uc694 \uc5c6\uc74c", "KTAS_level": 5}]}, {"symptom": "\uc601\uc0c1 \uac80\uc0ac / \uac80\uc0ac\uc2e4 \uac80\uc0ac", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uc601\uc0c1 \uac80\uc0ac / \uac80\uc0ac\uc2e4 \uac80\uc0ac", "KTAS_level": 5}]}, {"symptom": "\uc606\uad6c\ub9ac \ud1b5\uc99d", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ub9cc\uc131 \uacbd\uc99d \uc606\uad6c\ub9ac \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\uc628\uc5f4\uc190\uc0c1", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uc911\uc99d \ud0c8\uc218", "KTAS_level": 1}, {"consideration": "\uc911\uc2ec\uccb4\uc628 >41\u00b0C", "KTAS_level": 1}, {"consideration": "\uc911\ub4f1\ub3c4 \ud0c8\uc218", "KTAS_level": 2}, {"consideration": "\uc911\uc2ec\uccb4\uc628 39-41\u00b0C", "KTAS_level": 2}, {"consideration": "\uc9c0\uc18d\ub418\ub294 \uc5f4\uacbd\ub828 (heat cramps)", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ud0c8\uc218", "KTAS_level": 3}, {"consideration": "\uc815\uc0c1\ud65c\ub825 \uc9d5\ud6c4", "KTAS_level": 4}, {"consideration": "\uc5f4\uacbd\ub828\uc774 \ud68c\ubcf5\ub41c \uc0c1\ud0dc, \ud0c8\uc218\uc5d0\uc11c \ud638\uc804", "KTAS_level": 4}]}, {"symptom": "\uc678\uc0c1\uc131 \ubaa9, \ub4f1, \ud5c8\ub9ac \uc190\uc0c1", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc2e0\uacbd\ud559\uc801 \uc190\uc0c1 \u00b1 \uc7a5\uacfc \ubc29\uad11\uc758 \uae30\ub2a5\uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uc678\uc0c1\uc131 \ubaa9, \ub4f1, \ud5c8\ub9ac \uc190\uc0c1", "KTAS_level": 4}]}, {"symptom": "\uc678\uc0c1\uc5c6\uc774 \uc800\uc808\ub85c \uba4d\ub4e6", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uc678\uc0c1\uc5c6\uc774 \uc800\uc808\ub85c \uba4d\ub4e6", "KTAS_level": 3}]}, {"symptom": "\uc694\ub85c\uac10\uc5fc \uc99d\uc0c1", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ub9cc\uc131, \uacbd\uc99d \uc694\ub85c\uac10\uc5fc \uc99d\uc0c1\ud638\uc18c / \uc99d\uc0c1", "KTAS_level": 5}]}, {"symptom": "\uc6b0\uc6b8\uc99d / \uc790\uc0b4 / \uc790\ud574", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uacc4\ud68d\uc801\uc778 \uc790\uc0b4\uc2dc\ub3c4", "KTAS_level": 2}, {"consideration": "\ub69c\ub837\ud55c \uc790\uc0b4\uc758\ub3c4", "KTAS_level": 2}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud611", "KTAS_level": 2}, {"consideration": "\uad6c\uccb4\uc801\uc778 \uacc4\ud68d\uc774 \uc5c6\ub294 \uc790\uc0b4\uad00\ub150", "KTAS_level": 3}, {"consideration": "\uc6b0\uc6b8\ud568, \uc790\uc0b4\uc0dd\uac01\uc740 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\uc6d4\uacbd \ubb38\uc81c", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc6d4\uacbd \ubb38\uc81c", "KTAS_level": 4}]}, {"symptom": "\uc720\ud574\ubb3c\uc9c8 \ud761\uc785", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uc5f0\uae30\ub098 \uae30\ud0c0 \ubb3c\uc9c8 \ud761\uc785, \ud638\ud761\uace4\ub780 \uc5c6\uc74c", "KTAS_level": 3}, {"consideration": "\uc720\ud574\ubb3c\uc9c8\uc744 \ud761\uc785\ud55c \ud6c4 \uc0c1\ub2f9\ud55c \uc2dc\uac04\uc774 \uc9c0\ub0a8, \ubb34\uc99d\uc0c1", "KTAS_level": 4}]}, {"symptom": "\uc74c\uacbd \ubd80\uc885", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc9c0\uc18d\ubc1c\uae30\uc99d", "KTAS_level": 2}, {"consideration": "\uac10\ub3c8\ud3ec\uacbd", "KTAS_level": 2}, {"consideration": "\uc74c\uacbd \ubd80\uc885", "KTAS_level": 5}]}, {"symptom": "\uc74c\uc21c \ubd80\uc885", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc74c\uc21c \ubd80\uc885", "KTAS_level": 5}]}, {"symptom": "\uc758\ub8cc \uc7a5\ube44 \ubb38\uc81c", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\uc758\ub8cc \uc7a5\ube44 \ubb38\uc81c, \uc99d\uc0c1\uc774\ub098 \ubd88\ud3b8\ud568\uc774 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\uc758\uc2dd \uc218\uc900\uc758 \ubcc0\ud654", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\ud608\ub2f9 <54 mg/dl \uc774\uace0 \uad00\ub828\uc99d\uc0c1\uc744 \ub3d9\ubc18", "KTAS_level": 2}, {"consideration": "\ub2e8\uc21c \uc8fc\ucde8\uc5d0 \uc758\ud55c \uc758\uc2dd\ubcc0\ud654", "KTAS_level": 4}]}, {"symptom": "\uc774\uba85", "ROS": "\uadc0", "secondary_considerations": [{"consideration": "\uc544\uc2a4\ud53c\ub9b0 \ubcf5\uc6a9 \uac00\ub2a5\uc131 \uc788\uc74c", "KTAS_level": 2}, {"consideration": "\uc774\uba85", "KTAS_level": 4}]}, {"symptom": "\uc774\ubb3c\uc9c8 \uc0bc\ud0b4", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uce68\ud758\ub9bc \ub610\ub294 \ud611\ucc29\uc74c", "KTAS_level": 2}, {"consideration": "\ubaa9\uc270\uc18c\ub9ac\uc640 \uc5b8\uc5b4\uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\ub2e8\ucd94\ud615 \uac74\uc804\uc9c0, \ubf40\uc871\ud55c \ubb3c\uac74 \ub4f1 \uce58\ub8cc\uc801 \ub0b4\uc2dc\uacbd\uc744 \uace0\ub824\ud574\uc57c \ud558\ub294 \uacbd\uc6b0", "KTAS_level": 2}, {"consideration": "\uc9c0\uc18d\uc801\uc778 \uad6c\ud1a0", "KTAS_level": 3}, {"consideration": "\uc5f0\ud558\uace4\ub780\uc774\ub098 \ud638\ud761 \uace4\ub780 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\uc775\uc218", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uc800\uccb4\uc628\uc99d, \uc911\uc2ec \uccb4\uc628 <32\u00b0C", "KTAS_level": 2}, {"consideration": "\uc911\uc2ec \uccb4\uc628 32-35\u00b0C", "KTAS_level": 3}]}, {"symptom": "\uc778\ud6c4\ud1b5", "ROS": "\uc785,\ubaa9/\uc5bc\uad74", "secondary_considerations": [{"consideration": "\uce68\ud758\ub9bc \ub610\ub294 \ud611\ucc29\uc74c", "KTAS_level": 2}, {"consideration": "\uc785\uc220, \ud600, \uc785\uc778\ub450\uc758 \uba85\ubc31\ud55c \ubd80\uc885 / \ubd80\uae30", "KTAS_level": 2}, {"consideration": "\uc5f0\ud558\uc7a5\uc560", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \uc778\ud6c4\ud1b5 \u00b1 \ud6c4\ub450\uc5fc", "KTAS_level": 5}]}, {"symptom": "\uc77c\uce21\uc131\uc758 \ud64d\uc870 \ub764 \ub728\uac70\uc6b4 \uc0ac\uc9c0", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uad11\ubc94\uc704\ud55c \uc5fc\uc99d", "KTAS_level": 3}, {"consideration": "\uad6d\uc18c\uc131 \uc5fc\uc99d", "KTAS_level": 4}]}, {"symptom": "\uc800\uccb4\uc628\uc99d", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uc800\uccb4\uc628\uc99d, \uc911\uc2ec \uccb4\uc628 <32\u00b0C", "KTAS_level": 2}, {"consideration": "\uc911\uc2ec\uccb4\uc628 32-35\u00b0C", "KTAS_level": 3}, {"consideration": " \ub3d9\uc0c1 \uc5c6\uc74c, \uc815\uc0c1 \ud65c\ub824\uc9d5\ud6c4", "KTAS_level": 4}]}, {"symptom": "\uc800\ud608\ub2f9", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ud608\ub2f9 <54mg/dl", "KTAS_level": 2}, {"consideration": "\ud608\ub2f9 54-70mg/dl\uc774\uba74\uc11c \uc800\ud608\ub2f9 \uc99d\uc0c1 \ub3d9\ubc18 (\uc758\uc2dd\ud63c\ubbf8, \uc2dd\uc740\ub540, \ud589\ub3d9\ubcc0\ud654, \ubc1c\uc791 \ub4f1)", "KTAS_level": 2}, {"consideration": "\ud608\ub2f9 54-70mg/dl\uc774\uba74\uc11c \ubb34\uc99d\uc0c1", "KTAS_level": 3}]}, {"symptom": "\uc804\uae30 \uc190\uc0c1", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uba85\ubc31\ud55c \ud53c\ubd80 \uc190\uc0c1", "KTAS_level": 2}, {"consideration": "\uba85\ubc31\ud55c \ud53c\ubd80 \uc190\uc0c1 \uc5c6\uc74c", "KTAS_level": 3}]}, {"symptom": "\uc804\ubb38 \uc9c4\ub8cc\ub97c \uc704\ud574\uc11c \uc758\ub8b0\ub41c \ud658\uc790", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "ST\ubd84\uc808\uc0c1\uc2b9 \uc2ec\uadfc\uacbd\uc0c9, \ucd08\uae09\uc131 \ub1cc\uacbd\uc0c9 \ub4f1\uc73c\ub85c \uc758\ub8b0\ub41c \ud658\uc790", "KTAS_level": 2}, {"consideration": "\ubc14\ub85c \uce58\ub8cc\uac00 \uc2dc\uc791\ub418\uc5b4\uc57c \ud560 \uc704\ud5d8\uc218\uce58\ub098 \uc774\uc0c1\uc18c\uacac", "KTAS_level": 2}, {"consideration": "\uc218\uc220 \ubc0f \uc2dc\uc220, \uc9c0\uc18d\uac10\uc2dc\uac00 \ud544\uc694\ud558\uc5ec \uc758\ub8b0\ub41c \ud658\uc790", "KTAS_level": 3}, {"consideration": "\uc804\ubb38\uc9c4\ub8cc\ub97c \uc704\ud574 \uc758\ub8b0\ub418\uc5c8\uc73c\ub098 \uc218\uc220 \ubc0f \uc2dc\uc220, \uc9c0\uc18d\uac10\uc2dc\uac00 \ud544\uc694\uc5c6\ub294 \ud658\uc790", "KTAS_level": 5}]}, {"symptom": "\uc804\uc2e0 \ubd80\uc885", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc804\uc2e0 \ubd80\uc885, \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 4}]}, {"symptom": "\uc804\uc2e0 \uc1e0\uc57d", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc911\uc99d \ud0c8\uc218", "KTAS_level": 1}, {"consideration": "\uc911\ub4f1\ub3c4 \ud0c8\uc218", "KTAS_level": 2}, {"consideration": "\uac11\uc790\uae30 \ubcf4\ud589\uc774 \uc5b4\ub824\uc6c0", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d \ud0c8\uc218", "KTAS_level": 3}, {"consideration": "\ud0c8\uc218\uc758 \uac00\ub2a5\uc131 \uc788\uc74c", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131 \uc1e0\uc57d", "KTAS_level": 4}]}, {"symptom": "\uc808\ub2e8", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc0ac\uc9c0\uc758 \uc678\uc0c1\uc131 \uc808\ub2e8", "KTAS_level": 1}, {"consideration": "\uc190\uac00\ub77d\uc758 \uc678\uc0c1\uc131 \uc808\ub2e8", "KTAS_level": 2}, {"consideration": "\ubc1c\uac00\ub77d\uc758 \uc678\uc0c1\uc131 \uc808\ub2e8", "KTAS_level": 2}, {"consideration": "\uc808\ub2e8", "KTAS_level": 3}]}, {"symptom": "\uc9c1\uc7a5\ub0b4 \uc774\ubb3c\uc9c8", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\uc9c1\uc7a5\ub0b4 \uc774\ubb3c\uc9c8", "KTAS_level": 5}]}, {"symptom": "\uc9c8 \ubd84\ube44\ubb3c", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uacbd\uc99d", "KTAS_level": 5}]}, {"symptom": "\uc9c8 \ucd9c\ud608", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc784\uc2e0\uacfc \uad00\ub828\ub41c \ub2e4\ub7c9\uc758 \uc9c8 \ucd9c\ud608", "KTAS_level": 1}, {"consideration": "\uc784\uc2e0\uacfc \uad00\ub828\uc5c6\ub294 \ub2e4\ub7c9\uc758 \uc9c8 \ucd9c\ud608", "KTAS_level": 2}, {"consideration": "\uc9c8 \ucd9c\ud608 - \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 3}, {"consideration": "\uc9c8 \ucd9c\ud608 - \uacbd\uc99d / \uc810\uc0c1 \ucd9c\ud608", "KTAS_level": 4}]}, {"symptom": "\uc9c8 \ud1b5\uc99d / \uac00\ub824\uc6c0", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc9c8 \ud1b5\uc99d, \uac00\ub824\uc6c0 \ub3d9\ubc18", "KTAS_level": 5}]}, {"symptom": "\uc9c8\ub0b4 \uc774\ubb3c\uc9c8 ", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\uc9c8\ub0b4 \uc774\ubb3c\uc9c8", "KTAS_level": 5}]}, {"symptom": "\ucc29\ub780", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\ud608\ub2f9 <54 mg/dl \uc774\uace0 \uad00\ub828\uc99d\uc0c1\uc744 \ub3d9\ubc18", "KTAS_level": 2}, {"consideration": "\ub450\ud1b5 \ub610\ub294 \uc758\uc2dd \uc0c1\ud0dc\uc758 \ubcc0\ud654\ub97c \ub3d9\ubc18\ud55c \uae09\uc131 \ucc29\ub780", "KTAS_level": 2}, {"consideration": "\ub450\ud1b5 \ub610\ub294 \uc758\uc2dd \uc0c1\ud0dc\uc758 \ubcc0\ud654\ub97c \ub3d9\ubc18\ud558\uc9c0 \uc54a\ub294 \uae09\uc131 \ucc29\ub780", "KTAS_level": 3}, {"consideration": "\ub9cc\uc131, \ud3c9\uc0c1\uc2dc\uc5d0 \ube44\ud574 \ubcc0\ud654 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\ucc30\uacfc\uc0c1", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\ucd9c\ud608\uc774 \ub3d9\ubc18\ub41c \ucc30\uacfc\uc0c1", "KTAS_level": 4}, {"consideration": "\uacbd\uc99d \ucc30\uacfc\uc0c1", "KTAS_level": 5}]}, {"symptom": "\ucc3d\ubc31\ud568 / \ube48\ud608", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ucc3d\ubc31\ud568 / \ube48\ud608", "KTAS_level": 4}]}, {"symptom": "\ucc98\ubc29\uc804 / \ud22c\uc57d \ubb38\uc758", "ROS": "\uc77c\ubc18", "secondary_considerations": [{"consideration": "\ucc98\ubc29\uc804 / \ud22c\uc57d \ubb38\uc758", "KTAS_level": 5}]}, {"symptom": "\uccad\ub825\uc18c\uc2e4", "ROS": "\uadc0", "secondary_considerations": [{"consideration": "\uccad\ub825\uc18c\uc2e4, \uae09\uc131 \ubc1c\ubcd1", "KTAS_level": 3}, {"consideration": "\uccad\ub825\uc18c\uc2e4, \uc11c\uc11c\ud788 \ubc1c\ubcd1", "KTAS_level": 5}]}, {"symptom": "\uccad\uc0c9\uc99d", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uccad\uc0c9\uc99d", "KTAS_level": 3}]}, {"symptom": "\ucd9c\uc0b0 \ud6c4 \ubb38\uc81c (6\uc8fc \uc774\ub0b4)", "ROS": "\uc784\uc2e0 / \uc5ec\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ubc1c\uc791 \uc911 \ub610\ub294 \ubc1c\uc791 \ud6c4 \uc0c1\ud0dc", "KTAS_level": 1}, {"consideration": "\ud54f\ub369\uc774\ub97c \ub3d9\ubc18\ud55c \uc9c0\uc18d\ub418\ub294 \uc9c8 \ucd9c\ud608", "KTAS_level": 2}, {"consideration": "\uc218\ucd95\uae30 \ud608\uc555 > 160mmHg \ub610\ub294 \uc774\uc644\uae30 \ud608\uc555 > 100mmHg", "KTAS_level": 2}, {"consideration": "\ub450\ud1b5 \u00b1 \ubd80\uc885 \u00b1 \uba85\uce58\ud1b5\uc99d \u00b1 \uc2dc\uac01\uc7a5\uc560 \u00b1 \ub1cc\uc878\uc911 \uc99d\uc0c1", "KTAS_level": 2}, {"consideration": "\uc624\ud55c, \uc0c1\ucc98\uc758 \ubc1c\uc801 \ub3c4\ub294 \ud654\ub18d\uc131 \ubd84\ube44\ubb3c", "KTAS_level": 2}, {"consideration": "\ube44\uc815\uc0c1\uc801 \uc9c8\ubd84\ube44\ubb3c\uc744 \ub3d9\ubc18\ud55c \uace8\ubc18 / \ubcf5\ubd80 \ud1b5\uc99d", "KTAS_level": 2}, {"consideration": "\ucd9c\uc0b0 72\uc2dc\uac04 \uc774\ub0b4\uc758 \ubc30\ub1e8\ud1b5 \ub610\ub294 \uc18c\ubcc0\ubc30\ucd9c \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uace0\uc704\ud5d8 \ubb3c\uc9c8\uc758 \uc624\uc6a9", "KTAS_level": 2}, {"consideration": "\ucd9c\uc0b0\ud6c4 5\uc77c \uc774\ub0b4\uc758 \uc120\ud64d\uc0c9 / \uc810\uc0c1\ucd9c\ud608", "KTAS_level": 3}, {"consideration": "\uc218\ucd95\uae30 \ud608\uc555 > 140mmHg \ub610\ub294 \uc774\uc644\uae30 \ud608\uc555 > 90mmHg", "KTAS_level": 3}, {"consideration": "\uacbd\ub9c9\uc678 \ub9c8\ucde8\ud6c4 \uc9c0\uc18d\ub418\ub294 \ub450\ud1b5", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d / \uc911\ub4f1\ub3c4\uc758 \ub450\ud1b5 \u00b1 \ube44\uccb4\uc704\uc131 (non-dependent) \ubd80\uc885", "KTAS_level": 3}, {"consideration": "\uc7a5\uc561 / \ud608\uc561\uc131\uc758 \ubd84\ube44\ubb3c\uc744 \ub3d9\ubc18\ud55c \uc0c1\ucc98 \ubc1c\uc801 \ub610\ub294 \ubd80\uc885", "KTAS_level": 3}, {"consideration": "\ucd9c\uc0b0\ud6c4 10\uc77c \uc774\uc0c1 \uacbd\uacfc\ud55c \ucd9c\ud608, \ud65c\ub825\uc9d5\ud6c4 \uc815\uc0c1", "KTAS_level": 4}]}, {"symptom": "\uce58\uc544 / \uad6c\uac15 \ubb38\uc81c", "ROS": "\uc785,\ubaa9/\uc5bc\uad74", "secondary_considerations": [{"consideration": "\uce58\uc544 \ubc15\ub9ac (\ucd5c\uadfc \ubc1c\uc0dd\ud558\uc600\uc73c\uba70 \uc628\uc804\ud55c \uce58\uc544\uac00 \uc874\uc7ac)", "KTAS_level": 2}, {"consideration": "\ud65c\ub825 \uc9d5\ud6c4\uac00 \uc815\uc0c1\uc774\uba70 \uae30\uc800 \uc9c8\ud658\uc774 \uc5c6\ub294 \uc787\ubab8 \ucd9c\ud608", "KTAS_level": 4}, {"consideration": "\uce58\uc544 / \uc787\ubab8 \ubb38\uc81c, \uacbd\uc99d \ubb38\uc81c", "KTAS_level": 5}]}, {"symptom": "\ucf54\ub9c9\ud798", "ROS": "\ucf54", "secondary_considerations": [{"consideration": "\ucf54\ub9c9\ud798", "KTAS_level": 5}]}, {"symptom": "\ucf54\uc758 \uc678\uc0c1", "ROS": "\ucf54", "secondary_considerations": [{"consideration": "\uc801\uc808\ud55c \uc9c0\ud608\uc5d0\ub3c4 \uba48\ucd94\uc9c0 \uc54a\ub294 \ucf54\ud53c", "KTAS_level": 2}]}, {"symptom": "\ucf54\uc758 \uc774\ubb3c\uc9c8", "ROS": "\ucf54", "secondary_considerations": [{"consideration": "\ub2e8\ucd94\ud615 \uac74\uc804\uc9c0", "KTAS_level": 2}, {"consideration": "\uae09\uc131 \ub9d0\ucd08\uc131 \uacbd\uc99d \ud1b5\uc99d\uc744 \ub3d9\ubc18\ud55c \ucf54\uc758 \uc774\ubb3c\uc9c8", "KTAS_level": 5}]}, {"symptom": "\ucf54\ud53c", "ROS": "\ucf54", "secondary_considerations": [{"consideration": "\uc801\uc808\ud55c \uc555\ubc15\uc5d0\ub3c4 \uba48\ucd94\uc9c0 \uc54a\ub294 \ucf54\ud53c", "KTAS_level": 2}, {"consideration": "\uc555\ubc15\uc73c\ub85c \uc9c0\ud608\ub41c \ucf54\ud53c", "KTAS_level": 3}, {"consideration": "\uae09\uc131 \ucf54\ud53c, \ub450\ub4dc\ub7ec\uc9c4 \ucd9c\ud608\uc740 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\uc8fc\uae30\uc801 / \ubc18\ubcf5\uc801\uc774\uba70 \ub450\ub4dc\ub7ec\uc9c0\uc9c0 \uc54a\uc740 \ucd9c\ud608", "KTAS_level": 5}]}, {"symptom": "\ud1a0\ud608", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ud65c\ub3d9\uc131 \ub610\ub294 \uc99d\uc0c1\uc744 \ub3d9\ubc18\ud55c \ud1a0\ud608", "KTAS_level": 2}, {"consideration": "\ucee4\ud53c \ucc0c\uaebc\uae30 \ubaa8\uc591 \uad6c\ud1a0 / \ud751\uc0c9\ubcc0", "KTAS_level": 3}, {"consideration": "\uad6c\ud1a0\uc5d0 \uadf9\uc18c\ub7c9\uc774 \uc11e\uc778 \uacbd\uc6b0, \uc815\uc0c1 \ud65c\ub825\uc9d5\ud6c4", "KTAS_level": 3}]}, {"symptom": "\ud3ed\ub825 / \uc0b4\uc778 \ud589\uc704", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uc790\uc2e0 \ud639\uc740 \ud0c0\uc778\uc744 \ud574\uce58\ub824\ub294 \uad6c\uccb4\uc801\uc778 \uacc4\ud68d\uc774 \uc788\uac70\ub098 \ucda9\ub3d9\uc744 \uc5b5\uc81c\ud560 \uc218 \uc5c6\ub294 \uc0c1\ud0dc", "KTAS_level": 1}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uad6c\uccb4\uc801 \uacc4\ud68d\uc774 \uc5c6\ub294 \ud3ed\ub825\uc801\uc778 \uc0dd\uac01 (ideation)", "KTAS_level": 3}]}, {"symptom": "\ud53c\ubd80\uc758 \uc774\ubb3c\uc9c8", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\ud53c\ubd80\uc758 \uc774\ubb3c\uc9c8", "KTAS_level": 5}]}, {"symptom": "\ud54d\ub1e8\uc99d", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ud54d\ub1e8\uc99d", "KTAS_level": 4}]}, {"symptom": "\ud558\uc9c0 \uc190\uc0c1 ", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uac1c\ubc29\uc131 \uace8\uc808 \ub610\ub294 \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\uba85\ubc31\ud55c \ubcc0\ud615", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uace0, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud568", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uc9c0\ub9cc, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub294 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\ud558\uc9c0\uc758 \uc678\uc0c1", "KTAS_level": 5}]}, {"symptom": "\ud558\uc9c0 \ud1b5\uc99d", "ROS": "\uadfc\uace8\uaca9\uacc4", "secondary_considerations": [{"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uace0, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub97c \ub3d9\ubc18\ud568", "KTAS_level": 3}, {"consideration": "\uc11d\uace0\ubd95\ub300\uac00 \uaf49 \ub07c\uc5b4 \uc544\ud504\uc9c0\ub9cc, \uc2e0\uacbd\ud608\uad00 \uc7a5\uc560\ub294 \uc5c6\uc74c", "KTAS_level": 4}, {"consideration": "\ud558\uc9c0\uc758 \ub9cc\uc131 \uacbd\uc99d \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\ud56d\ubb38 / \uc9c1\uc7a5 / \ud68c\uc74c\ubd80 \uc678\uc0c1", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ud56d\ubb38 / \uc9c1\uc7a5 / \ud68c\uc74c\ubd80 \uc678\uc0c1", "KTAS_level": 5}]}, {"symptom": "\ud604\ud6c8", "ROS": "\uc2e0\uacbd\uacc4", "secondary_considerations": [{"consideration": "\uc790\uc138\ubcc0\ud654\uc5d0 \uc758\ud574 \uc720\ubc1c\ub418\uc9c0 \uc54a\uc74c", "KTAS_level": 2}, {"consideration": "\uc2e0\uacbd\ud559\uc801 \uc99d\uc0c1", "KTAS_level": 2}, {"consideration": "\uc790\uc138\ubcc0\ud654\uc5d0 \uc758\ud574 \ubc1c\uc0dd, \ub2e4\ub978 \uc2e0\uacbd\ud559\uc801 \uc99d\uc0c1 \uc5c6\uc74c", "KTAS_level": 3}, {"consideration": "\ub9cc\uc131, \uae30\ud0c0 \uc5b4\uc9c0\ub7ec\uc6c0", "KTAS_level": 4}]}, {"symptom": "\ud608\ub1e8", "ROS": "\ube44\ub1e8\uae30\uacc4/\ub0a8\uc131\uc0dd\uc2dd\uacc4", "secondary_considerations": [{"consideration": "\ud608\ub1e8", "KTAS_level": 5}]}, {"symptom": "\ud608\ubcc0 / \ud751\uc0c9\ubcc0", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ub9ce\uc740 \uc591\uc758 \ud751\uc0c9\ubcc0 \ub610\ub294 \uc9c1\uc7a5 \ucd9c\ud608", "KTAS_level": 2}, {"consideration": "\uc911\ub4f1\ub3c4 \uc591\uc758 \ud751\uc0c9\ubcc0 \ub610\ub294 \uc9c1\uc7a5 \ucd9c\ud608", "KTAS_level": 3}, {"consideration": "\uc801\uc740 \uc591\uc758 \uc9c1\uc7a5 \ucd9c\ud608", "KTAS_level": 4}]}, {"symptom": "\ud608\uc561\uc774\ub098 \uccb4\uc561\uc5d0 \ub178\ucd9c", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uace0\uc704\ud5d8 \ub178\ucd9c: \uc8fc\uc0ac\uce68\uc5d0 \ucc14\ub838\uc73c\ub098 \uac10\uc5fc\uc6d0\uc744 \uc54c \uc218 \uc5c6\ub294 \uacbd\uc6b0, \uc8fc\uc0ac\uce68\uc758 \uac10\uc5fc\uc6d0\uc774 \uc5d0\uc774\uc988 \ud639\uc740 \uac04\uc5fc \ubc14\uc774\ub7ec\uc2a4 \ubcf4\uade0\uc790\uc774\uac70\ub098 \uac00\ub2a5\uc131 \uc788\ub294 \uacbd\uc6b0 (\uc54c\uace0 \uc788\ub294 \uc800\uc704\ud5d8 \uac10\uc5fc\uc6d0\uc774 \uc544\ub2c8\uba74 \uace0\uc704\ud5d8\uc73c\ub85c \uac04\uc8fc)", "KTAS_level": 3}, {"consideration": "\uc800\uc704\ud5d8 \ub178\ucd9c: \uc800\uc704\ud5d8 \uac10\uc5fc\uc6d0\uc758 \uc8fc\uc0ac\uce68\uc5d0 \ucc14\ub9b0 \uacbd\uc6b0 \ub610\ub294 \uc800\uc704\ud5d8 \uac10\uc5fc\uc6d0\uc5d0\uc11c \uccb4\uc561\uc774 \ud284 \uacbd\uc6b0", "KTAS_level": 4}]}, {"symptom": "\ud638\ud761 \uc815\uc9c0", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\ud638\ud761 \uc815\uc9c0", "KTAS_level": 1}]}, {"symptom": "\ud638\ud761\uae30 \uc774\ubb3c\uc9c8", "ROS": "\ud638\ud761\uae30\uacc4", "secondary_considerations": [{"consideration": "\uce68\ud758\ub9bc \ub610\ub294 \ud611\ucc29\uc74c", "KTAS_level": 2}, {"consideration": "\ubaa9\uc270\uc18c\ub9ac\uc640 \uc5b8\uc5b4\uc7a5\uc560", "KTAS_level": 2}, {"consideration": "\ub2e8\ucd94\ud615 \uac74\uc804\uc9c0, \ubfb0\uc871\ud55c \ubb3c\uac74 \ub4f1 \uce58\ub8cc\uc801 \ub0b4\uc2dc\uacbd\uc744 \uace0\ub824\ud574\uc57c \ud558\ub294 \uacbd\uc6b0", "KTAS_level": 2}, {"consideration": "\ud638\ud761\uace4\ub780 \uc5c6\ub294 \uc5f0\ud558\uc7a5\uc560", "KTAS_level": 3}, {"consideration": "\ud638\ud761\uae30 \uc774\ubb3c\uc9c8, \uacbd\uc99d \ud1b5\uc99d, \ud638\ud761\uace4\ub780\uc740 \uc5c6\uc74c", "KTAS_level": 4}]}, {"symptom": "\ud639, \ub3cc\uae30, \uad73\uc740 \uc0b4", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\ud639, \ub3cc\uae30, \uad73\uc740 \uc0b4", "KTAS_level": 5}]}, {"symptom": "\ud654\uc0c1", "ROS": "\ud53c\ubd80", "secondary_considerations": [{"consideration": "\uccb4\ud45c\uba74\uc801 25% \uc774\uc0c1\uc758 \ud654\uc0c1", "KTAS_level": 2}, {"consideration": "\uc190, \ubc1c, \uc5bc\uad74, \ud68c\uc74c\ubd80 \ubd80\uc704\uc758 2\ub3c4 \uc774\uc0c1\uc758 \ud654\uc0c1", "KTAS_level": 2}, {"consideration": "\uccb4\ud45c\uba74\uc801\uc758 5-25% \ud654\uc0c1", "KTAS_level": 3}, {"consideration": "\uccb4\ud45c\uba74\uc801\uc758 <5%\uc778 3\ub3c4 \uc774\uc0c1\uc758 \ud654\uc0c1, \ud639\uc740 <10%\uc758 2\ub3c4 \ud654\uc0c1", "KTAS_level": 4}, {"consideration": "\ud654\uc0c1, \uacbd\uc99d \ud1b5\uc99d", "KTAS_level": 5}]}, {"symptom": "\ud654\ud559\ubb3c\uc9c8 \ub178\ucd9c", "ROS": "\ud658\uacbd\uc190\uc0c1", "secondary_considerations": [{"consideration": "\uccb4\ud45c\uba74\uc801 25% \uc774\uc0c1\uc758 \uc911\uc99d \ud654\uc0c1", "KTAS_level": 1}, {"consideration": "\uc190\uc774\ub098 \ubc1c, \uc0c5\uace0\ub791 \ubd80\uc704, \uc5bc\uad74\uc758 \uc911\uc99d \ud654\uc0c1", "KTAS_level": 2}, {"consideration": "\ub208\uc5d0 \uc774\ubb3c\uc9c8\uc774 \ud284 \ud6c4 \uc99d\uc0c1 \uc788\uc74c", "KTAS_level": 2}]}, {"symptom": "\ud658\uac01 / \ub9dd\uc0c1", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\uae09\uc131 \uc815\uc2e0\ubcd1, \uc911\uc99d \ubd88\uc548 / \ucd08\uc870, \ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \uc548\uc804\uc5d0 \ub300\ud55c \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uc911\ub4f1\ub3c4 \ubd88\uc548 / \ucd08\uc870 \ub610\ub294 \ud3b8\uc9d1\uc99d\uc744 \ub3d9\ubc18", "KTAS_level": 3}, {"consideration": "\uacbd\uc99d\uc758 \ubd88\uc548 / \ucd08\uc870, \uc548\uc815\ub418\uc5b4 \uc788\uc74c", "KTAS_level": 4}, {"consideration": "\ub9cc\uc131\uc801\uc778 \ud658\uac01\uc73c\ub85c \uc778\ud55c \uacbd\uc99d\uc758 \ubd88\uc548 / \ucd08\uc870", "KTAS_level": 5}]}, {"symptom": "\ud658\uc790\uc758 \uc548\ub155\uc5d0 \ub300\ud55c \uace0\ub824 (\ud559\ub300, \ubc29\uc784)", "ROS": "\uc815\uc2e0\uac74\uac15", "secondary_considerations": [{"consideration": "\ud3ed\ub825 \ub610\ub294 \uc548\uc804\ud558\uc9c0 \uc54a\uc740 \uc0c1\ud669", "KTAS_level": 1}, {"consideration": "\ub3c4\uc8fc\uc758 \uac00\ub2a5\uc131\uc774\ub098 \ud559\ub300\uac00 \ubc18\ubcf5\ub420 \uc704\ud5d8", "KTAS_level": 2}, {"consideration": "\uc721\uccb4\uc801 \ud3ed\ud589 \ub610\ub294 \uc131\ud3ed\ud589", "KTAS_level": 3}, {"consideration": "\ud559\ub300\uc758 \ubcd1\ub825 / \uc9d5\ud6c4", "KTAS_level": 4}]}, {"symptom": "\ud669\ub2ec", "ROS": "\uc18c\ud654\uae30\uacc4", "secondary_considerations": [{"consideration": "\ud669\ub2ec, \uac74\uac15\ud574 \ubcf4\uc784", "KTAS_level": 5}]}, {"symptom": "\ud749\ud1b5 (\ube44\uc2ec\uc7a5\uc131)", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uae30\ud0c0 \uc2ec\uac01\ud55c \uac00\uc2b4 \ud1b5\uc99d (\uc7a1\uc544 \uc9f8\ub294, \ucc22\uc5b4\uc9c0\ub294 \ud1b5\uc99d)", "KTAS_level": 2}, {"consideration": "\uac00\uc2b4 \ud1b5\uc99d, \ube44\uc2ec\uc7a5\uc131", "KTAS_level": 5}]}, {"symptom": "\ud749\ud1b5 (\uc2ec\uc7a5\uc131)", "ROS": "\uc2ec\ud608\uad00\uacc4", "secondary_considerations": [{"consideration": "\uc2ec\uc7a5\uc131 \ud749\ud1b5", "KTAS_level": 2}]}]
+[
+    {
+        "symptom": "20주 미만의 임신",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "주기적인 복부 뭉침 또는 허리 통증을 동반한 골반의 압박감",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "다량의 질 출혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "경증 / 중등도의 질 출혈",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "복부의 뭉침",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "양수누출의 가능성",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "질 출혈 (점상출혈)",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "핑크빛 점액성 분비물",
+                "KTAS_level": 5
+            },
+            {
+                "consideration": "질 분비물",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "20주 이상의 임신",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "태아의 일부분이 보이거나 탯줄 탈출",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "지속되는 질 출혈",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "발작 중 또는 발작 후 상태",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "임신 주수 >20주, 복부 관통상",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "태동이 없음",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "진통 (자궁수축 ≤5분)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "예정이 없었거나 의도치 않은 출산",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "태동이 감소함",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "수축기 혈압 > 160mmHg 또는 이완기 혈압 > 100mmHg",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "두통 ± 부종 ± 상복부 통증 ± 시각장애 ± 뇌졸중 증상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "임신주수 > 20주, 주요 복부 둔상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "고위험 물질의 오용",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "진통 (자궁수축 >5분)",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "질 출혈, 현재는 멈춤",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "수축기 혈압 > 140mmHg 또는 이완기 혈압 > 90mmHg",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "복부를 제외한 부위의 경증 외상",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "양수 누출",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "임신주수 >20주",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "감각상실 / 이상감각",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "새로 발병한 감각소실 / 이상감각",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "만성 감각소실 / 이상감각",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "감염 가능성 확인",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "감염 가능성 확인",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "감염성 질환에 노출",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "감염성 질환에 노출",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "객혈",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "객혈, 건강해 보임",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "경증 및 비특이적 증상 호소",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "경증 및 비특이적 증상 호소",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "고혈당",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "혈당 > 324mg/dl, 증상 있음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "혈당 > 324mg/dl, 무증상",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "고혈압",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "고혈압 (수축기혈압 ≥220 혹은 이완기혈압 ≥130) 증상 있음 + 다음 중 한가지 존재 (숨참, 가슴 통증, 혼미, 급성 두통, 구역/구토)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "고혈압 (수축기혈압 ≥220 혹은 이완기혈압 ≥130), 동반된 다른 증상 없음",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "고혈압 (수축기혈압 200-220 그리고 이완기혈압 110-130), 고혈압 증상 동반",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "고혈압 (수축기혈압 200-220 그리고 이완기혈압 110-130), 무증상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "고환 통증 / 부종",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "고환 통증 / 부종",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "과다 복용",
+        "ROS": "물질오용",
+        "secondary_considerations": [
+            {
+                "consideration": "고위험 물질 / 알 수 없는 물질",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "계획적인 자살시도",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "구체적인 계획이 없는 자살관념",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "과다 복용",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "과다호흡증후군",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "회복된 과다호흡증후군, 건강해 보임",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "관절 부종",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "관절 부종",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "구토 / 구역",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 탈수",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "지속되는 상당량의 토혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중등도 탈수",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "커피 찌꺼기 모양 구토 / 흑색변",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 탈수",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "탈수 가능성 있음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성 구토 / 구역, 정상 활력징후",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "국소성 부종 / 발적",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "얼굴 연조직염, 특히, 안와주위",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "자반성 또는 점 발진, 아파 보임",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "국소성 연조직염",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "국소성 발진",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "귀의 손상",
+        "ROS": "귀",
+        "secondary_considerations": [
+            {
+                "consideration": "절단",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "창백하거나 청색증을 동반한 동상, 중증",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "색 변화를 동반하지 않은 동상, 경증",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "봉합이 필요한 열상",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "봉합이 불필요한 열상 / 찰과상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "귀의 이물질",
+        "ROS": "귀",
+        "secondary_considerations": [
+            {
+                "consideration": "귀의 이물질",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "기괴한 행동",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "조절되지 않는 행동",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "조절되는 행동",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "해를 끼치지 않은 행동",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성, 비급성 상태",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "기억상실",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "새로 발병한 기억상실",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "기침 / 코막힘",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "만성 기침 / 코막힘, 정상 활력징후",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "기타 피부 상태",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "기타 피부 상태",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "눈 충혈 / 분비물",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "눈 충혈 / 분비물 ,급성",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "눈 충혈 / 분비물, 만성",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "눈 통증",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "급성 / 갑작스런 시력변화",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "눈 통증, 만성",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "눈부심",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "눈부심",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "눈의 외상",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "관통 손상이나 화학물질, 직접적인 고열에 의한 손상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "둔상에 의한 시력소실",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "급성 / 갑작스런 시력 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "분류 담당자가 눈을 확인할 수 없는 상태",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "눈의 외상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "눈의 이물질",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "이물질의 안구 관통",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "급성 또는 갑작스런 시력변화",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "눈의 화학물질 노출",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "눈의 화학물질 노출",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "다뇨증",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "다뇨증",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "다리 부기 / 부종",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "일측성 다리 부기 / 부종",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "양측성 다리 부기 / 부종",
+                "KTAS_level": 5
+            },
+            {
+                "consideration": "만성",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "단독 복부 외상 - 관통상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "단독 복부 외상 - 관통상",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "단독 복부 외상 - 둔상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "단독 복부 외상 - 둔상 (건강해 보임)",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "단독 흉부 외상 - 관통상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "단독 흉부 외상 - 관통상",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "단독 흉부 외상 - 둔상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "흉벽 통증에 기인한 말초성 통증",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "단독 흉부 외상 - 둔상 (건강해 보임)",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "동상 / 한랭손상",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "사지 말단부위에 맥박이 없고 차가움",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "피부가 창백함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "동상 / 한랭손상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "두부 손상",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "새로운 국소적 신경학적 증상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "의식소실의 병력",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "장기간의 척추고정",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "의식소실의 병력이 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "두통",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "급성, 중증, 지금까지 경험했던 두통 중 가장 심함",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "시력장애 ± 안구 통증",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "만성 또는 반복적인 두통",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "드레싱 교체",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "드레싱 교체",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "딸꾹질",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "딸꾹질, 만성, 힘들어 보이지 않음",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "떨림",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "만성 떨림",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "맥박이 없거나 차가운 사지",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "사지 말단에 맥박이 없음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "사지가 차가움",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "목, 등, 허리 통증",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "신경학적 손상 ± 장과 방광의 기능장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "목, 등, 허리 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "목의 부종 / 통증",
+        "ROS": "입,목/얼굴",
+        "secondary_considerations": [
+            {
+                "consideration": "경부 강직 / 수막자극증 ± 열",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "만성 중심성 경증 통증을 동반한 목의 부종 / 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "목의 외상",
+        "ROS": "입,목/얼굴",
+        "secondary_considerations": [
+            {
+                "consideration": "이상감각, 신경학적 징후",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "목쉰소리와 언어장애",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "몸통을 포함한 다발성 외상 - 관통상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "신경학적 손상과 동반된 척추 골절, 두부의 관통상",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "사지의 신경혈관 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "머리, 가슴, 복부의 관통상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "몸통을 포함한 다발성 외상 - 관통상",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "몸통을 포함한 다발성 외상 - 둔상",
+        "ROS": "몸통외상",
+        "secondary_considerations": [
+            {
+                "consideration": "신경학적 손상과 동반된 척추 골절",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "사지의 신경혈관 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "장기간의 척추고정",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "몸통을 포함한 다발성 외상 - 둔상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "물림",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 알레르기 반응의 기왕력",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "경증 물림",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "물질 금단",
+        "ROS": "물질오용",
+        "secondary_considerations": [
+            {
+                "consideration": "경련중",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "최근 발작, 발작 후 상태, 초조",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중증 불안 / 초조",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중등도 불안 /초조",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 불안 / 초조",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "물질 오용 / 중독",
+        "ROS": "물질오용",
+        "secondary_considerations": [
+            {
+                "consideration": "고위험 물질 / 알 수 없는 물질",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "알려진 저독성 물질",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "반지 제거",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "반지 제거",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "발작",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "지금 발작 중",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "발작 후 상태",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "회복된 상태, 명료한 의식",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "발진",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "얼굴 연조직염, 안와주위부 포함",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "자반성 또는 점발진, 아파 보임",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "혈관부종",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "두드러기",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "국소성 연조직염",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "국소성 발진",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "변비",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "단순변비",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "보행 장애 / 운동 실조 / 강직",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "발병시간 <24 시간",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "복부 종괴 / 팽만",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "지속적인 구토",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "만성 복부 종괴 / 팽만, 건강해 보임",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "복시",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "급성 발병, 지속되는 증상",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "만성 복시",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "복통",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "만성 경증 복부 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "불면증",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "급성 불면증",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성 불면증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "불안 / 위기 상황",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 불안 / 초조",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위협",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중등도 불안 / 초조",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 불안 / 초조",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "비정상 검사 결과",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "바로 치료가 시작되어야 할 위험수치나 이상소견",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "위험수치나 이상소견에 해당되나 정상 활력징후",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "위험수치나 이상소견에 해당되지 않으며 정상 활력징후",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "사지 약화 / 뇌졸중 증상",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "발병시간 24시간 이내",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "발병시간 24시간 초과",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "회복된 상태",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "사회문제",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "육체적 학대, 정신적 학대, 심각한 감정적 스트레스",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "대처하기 어려운 상태",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성, 비급성 상태",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "상기도감염 증상 호소",
+        "ROS": "코",
+        "secondary_considerations": [
+            {
+                "consideration": "건강해 보임, 열 없음",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "상지 손상",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "개방성 골절 또는 신경혈관 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "명백한 변형",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프고, 신경혈관 장애를 동반함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프지만, 신경혈관 장애는 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "상지의 외상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "상지 통증",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "신경혈관 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프고, 신경혈관 장애를 동반함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프지만, 신경혈관 장애는 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "상지의 만성 경증 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "상처 확인",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "상처 확인",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "샅고랑 부위 통증 / 종괴",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "샅고랑 부위 통증 / 종괴",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "생식기의 분비물 / 피부병변",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "생식기의 분비물 / 피부병변",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "생식기의 외상",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "성폭행, 안정되어 있음",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "생식기의 외상, 통증 없음",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "석고 붕대 확인",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "석고붕대가 꽉 끼어 신경혈관 장애를 동반함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프지만, 신경혈관 장애는 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "석고붕대 체크 또는 석고붕대 교환",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "설사",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 탈수",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "중등도 탈수",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "멈추지 않는 혈성 설사",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 탈수",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "탈수 가능성 있음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성 설사, 정상 활력징후",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "성폭행",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "<2시간",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "≥2시간부터 <12시간",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "≥12시간; 손상 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "소변배출장애",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "소변배출장애",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "소양증",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "소양증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "수술 후 합병증",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "정상 활력징후, 통증 없음, 일상적인 체크",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "숨참",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "FEV1 혹은 PEFR이 40% 미만으로 예상되는 천식 환자 (중증)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "FEV1 혹은 PEFR이 40-60% 로 예상되는 천식 환자 (중등도)",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "FEV1 혹은 PEFR이 60% 이상으로 예상되는 천식 환자 (경증)",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "스테이플 / 봉합사 제거",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "스테이플 / 봉합사 제거",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "시력장애",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "급성 / 갑작스런 시력변화",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "만성 / 점진적 시력변화",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "식욕부진",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "심각한 체중 감소",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "식욕부진, 건강해 보임",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "실신 / 전실신",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "새로 발병한 부정맥, 불규칙 맥박 / 맥박수의 변화",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "전구증상 없음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "운동 중 발생함",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "전구증상 동반 또는 급격한 자세 변화시 발병",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "의식소실의 병력",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "정상 활력, 증상 회복",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "심계항진 / 불규칙한 심장박동",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "심장성 가슴 통증",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "치명적일 수 있는 부정맥의 병력이나 기록",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "급성 발병, 지속되는 증상",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "심계항진 병력, 현재는 회복된 상태",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "심정지(비외상성)",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "심정지 (비외상성)",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "심폐소생술의 대상이 아닌 경우",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "심정지(외상성)",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "심정지 (외상성)",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "심폐소생술의 대상이 아닌 경우",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "쏘임",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 알레르기 반응의 기왕력",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "쏘임",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "안와주위 부종",
+        "ROS": "눈",
+        "secondary_considerations": [
+            {
+                "consideration": "안와주위 부종",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "알레르기 반응",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "이전 중증의 기왕력",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "아나필락시스",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "혈관부종",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "두드러기",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "코막힘을 동반한 알레르기 비염",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "연하장애 / 연하곤란",
+        "ROS": "입,목/얼굴",
+        "secondary_considerations": [
+            {
+                "consideration": "침흘림 또는 협착음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "이물질의 가능성",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "열",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "점 발진",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "열상 / 천공",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "신경혈관 장애를 동반한 복합창상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "지속되고 있는 출혈",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "지혈되었거나 조절되고 있는 출혈",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "봉합 필요",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "봉합 필요 없음",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "영상 검사 / 검사실 검사",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "영상 검사 / 검사실 검사",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "옆구리 통증",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "만성 경증 옆구리 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "온열손상",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 탈수",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "중심체온 >41°C",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "중등도 탈수",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중심체온 39-41°C",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "지속되는 열경련 (heat cramps)",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 탈수",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "정상활력 징후",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "열경련이 회복된 상태, 탈수에서 호전",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "외상성 목, 등, 허리 손상",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "신경학적 손상 ± 장과 방광의 기능장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "외상성 목, 등, 허리 손상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "외상없이 저절로 멍듦",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "외상없이 저절로 멍듦",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "요로감염 증상",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "만성, 경증 요로감염 증상호소 / 증상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "우울증 / 자살 / 자해",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "계획적인 자살시도",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "뚜렷한 자살의도",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위협",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "구체적인 계획이 없는 자살관념",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "우울함, 자살생각은 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "월경 문제",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "월경 문제",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "유해물질 흡입",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "연기나 기타 물질 흡입, 호흡곤란 없음",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "유해물질을 흡입한 후 상당한 시간이 지남, 무증상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "음경 부종",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "지속발기증",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "감돈포경",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "음경 부종",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "음순 부종",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "음순 부종",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "의료 장비 문제",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "의료 장비 문제, 증상이나 불편함이 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "의식 수준의 변화",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "혈당 <54 mg/dl 이고 관련증상을 동반",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "단순 주취에 의한 의식변화",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "이명",
+        "ROS": "귀",
+        "secondary_considerations": [
+            {
+                "consideration": "아스피린 복용 가능성 있음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "이명",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "이물질 삼킴",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "침흘림 또는 협착음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "목쉰소리와 언어장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "단추형 건전지, 뽀족한 물건 등 치료적 내시경을 고려해야 하는 경우",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "지속적인 구토",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "연하곤란이나 호흡 곤란 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "익수",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "저체온증, 중심 체온 <32°C",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중심 체온 32-35°C",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "인후통",
+        "ROS": "입,목/얼굴",
+        "secondary_considerations": [
+            {
+                "consideration": "침흘림 또는 협착음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "입술, 혀, 입인두의 명백한 부종 / 부기",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "연하장애",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 인후통 ± 후두염",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "일측성의 홍조 띤 뜨거운 사지",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "광범위한 염증",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "국소성 염증",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "저체온증",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "저체온증, 중심 체온 <32°C",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중심체온 32-35°C",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": " 동상 없음, 정상 활려징후",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "저혈당",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "혈당 <54mg/dl",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "혈당 54-70mg/dl이면서 저혈당 증상 동반 (의식혼미, 식은땀, 행동변화, 발작 등)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "혈당 54-70mg/dl이면서 무증상",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "전기 손상",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "명백한 피부 손상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "명백한 피부 손상 없음",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "전문 진료를 위해서 의뢰된 환자",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "ST분절상승 심근경색, 초급성 뇌경색 등으로 의뢰된 환자",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "바로 치료가 시작되어야 할 위험수치나 이상소견",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "수술 및 시술, 지속감시가 필요하여 의뢰된 환자",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "전문진료를 위해 의뢰되었으나 수술 및 시술, 지속감시가 필요없는 환자",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "전신 부종",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "전신 부종, 정상 활력징후",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "전신 쇠약",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "중증 탈수",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "중등도 탈수",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "갑자기 보행이 어려움",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 탈수",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "탈수의 가능성 있음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성 쇠약",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "절단",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "사지의 외상성 절단",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "손가락의 외상성 절단",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "발가락의 외상성 절단",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "절단",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "직장내 이물질",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "직장내 이물질",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "질 분비물",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "경증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "질 출혈",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "임신과 관련된 다량의 질 출혈",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "임신과 관련없는 다량의 질 출혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "질 출혈 - 정상 활력징후",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "질 출혈 - 경증 / 점상 출혈",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "질 통증 / 가려움",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "질 통증, 가려움 동반",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "질내 이물질 ",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "질내 이물질",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "착란",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "혈당 <54 mg/dl 이고 관련증상을 동반",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "두통 또는 의식 상태의 변화를 동반한 급성 착란",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "두통 또는 의식 상태의 변화를 동반하지 않는 급성 착란",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "만성, 평상시에 비해 변화 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "찰과상",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "출혈이 동반된 찰과상",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "경증 찰과상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "창백함 / 빈혈",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "창백함 / 빈혈",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "처방전 / 투약 문의",
+        "ROS": "일반",
+        "secondary_considerations": [
+            {
+                "consideration": "처방전 / 투약 문의",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "청력소실",
+        "ROS": "귀",
+        "secondary_considerations": [
+            {
+                "consideration": "청력소실, 급성 발병",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "청력소실, 서서히 발병",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "청색증",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "청색증",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "출산 후 문제 (6주 이내)",
+        "ROS": "임신 / 여성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "발작 중 또는 발작 후 상태",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "핏덩이를 동반한 지속되는 질 출혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "수축기 혈압 > 160mmHg 또는 이완기 혈압 > 100mmHg",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "두통 ± 부종 ± 명치통증 ± 시각장애 ± 뇌졸중 증상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "오한, 상처의 발적 도는 화농성 분비물",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "비정상적 질분비물을 동반한 골반 / 복부 통증",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "출산 72시간 이내의 배뇨통 또는 소변배출 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "고위험 물질의 오용",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "출산후 5일 이내의 선홍색 / 점상출혈",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "수축기 혈압 > 140mmHg 또는 이완기 혈압 > 90mmHg",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경막외 마취후 지속되는 두통",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증 / 중등도의 두통 ± 비체위성 (non-dependent) 부종",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "장액 / 혈액성의 분비물을 동반한 상처 발적 또는 부종",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "출산후 10일 이상 경과한 출혈, 활력징후 정상",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "치아 / 구강 문제",
+        "ROS": "입,목/얼굴",
+        "secondary_considerations": [
+            {
+                "consideration": "치아 박리 (최근 발생하였으며 온전한 치아가 존재)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "활력 징후가 정상이며 기저 질환이 없는 잇몸 출혈",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "치아 / 잇몸 문제, 경증 문제",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "코막힘",
+        "ROS": "코",
+        "secondary_considerations": [
+            {
+                "consideration": "코막힘",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "코의 외상",
+        "ROS": "코",
+        "secondary_considerations": [
+            {
+                "consideration": "적절한 지혈에도 멈추지 않는 코피",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "코의 이물질",
+        "ROS": "코",
+        "secondary_considerations": [
+            {
+                "consideration": "단추형 건전지",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "급성 말초성 경증 통증을 동반한 코의 이물질",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "코피",
+        "ROS": "코",
+        "secondary_considerations": [
+            {
+                "consideration": "적절한 압박에도 멈추지 않는 코피",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "압박으로 지혈된 코피",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "급성 코피, 두드러진 출혈은 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "주기적 / 반복적이며 두드러지지 않은 출혈",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "토혈",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "활동성 또는 증상을 동반한 토혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "커피 찌꺼기 모양 구토 / 흑색변",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "구토에 극소량이 섞인 경우, 정상 활력징후",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "폭력 / 살인 행위",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "자신 혹은 타인을 해치려는 구체적인 계획이 있거나 충동을 억제할 수 없는 상태",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "구체적 계획이 없는 폭력적인 생각 (ideation)",
+                "KTAS_level": 3
+            }
+        ]
+    },
+    {
+        "symptom": "피부의 이물질",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "피부의 이물질",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "핍뇨증",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "핍뇨증",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "하지 손상 ",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "개방성 골절 또는 신경혈관 장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "명백한 변형",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프고, 신경혈관 장애를 동반함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프지만, 신경혈관 장애는 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "하지의 외상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "하지 통증",
+        "ROS": "근골격계",
+        "secondary_considerations": [
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프고, 신경혈관 장애를 동반함",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "석고붕대가 꽉 끼어 아프지만, 신경혈관 장애는 없음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "하지의 만성 경증 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "항문 / 직장 / 회음부 외상",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "항문 / 직장 / 회음부 외상",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "현훈",
+        "ROS": "신경계",
+        "secondary_considerations": [
+            {
+                "consideration": "자세변화에 의해 유발되지 않음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "신경학적 증상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "자세변화에 의해 발생, 다른 신경학적 증상 없음",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "만성, 기타 어지러움",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "혈뇨",
+        "ROS": "비뇨기계/남성생식계",
+        "secondary_considerations": [
+            {
+                "consideration": "혈뇨",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "혈변 / 흑색변",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "많은 양의 흑색변 또는 직장 출혈",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중등도 양의 흑색변 또는 직장 출혈",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "적은 양의 직장 출혈",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "혈액이나 체액에 노출",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "고위험 노출: 주사침에 찔렸으나 감염원을 알 수 없는 경우, 주사침의 감염원이 에이즈 혹은 간염 바이러스 보균자이거나 가능성 있는 경우 (알고 있는 저위험 감염원이 아니면 고위험으로 간주)",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "저위험 노출: 저위험 감염원의 주사침에 찔린 경우 또는 저위험 감염원에서 체액이 튄 경우",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "호흡 정지",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "호흡 정지",
+                "KTAS_level": 1
+            }
+        ]
+    },
+    {
+        "symptom": "호흡기 이물질",
+        "ROS": "호흡기계",
+        "secondary_considerations": [
+            {
+                "consideration": "침흘림 또는 협착음",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "목쉰소리와 언어장애",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "단추형 건전지, 뾰족한 물건 등 치료적 내시경을 고려해야 하는 경우",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "호흡곤란 없는 연하장애",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "호흡기 이물질, 경증 통증, 호흡곤란은 없음",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "혹, 돌기, 굳은 살",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "혹, 돌기, 굳은 살",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "화상",
+        "ROS": "피부",
+        "secondary_considerations": [
+            {
+                "consideration": "체표면적 25% 이상의 화상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "손, 발, 얼굴, 회음부 부위의 2도 이상의 화상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "체표면적의 5-25% 화상",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "체표면적의 <5%인 3도 이상의 화상, 혹은 <10%의 2도 화상",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "화상, 경증 통증",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "화학물질 노출",
+        "ROS": "환경손상",
+        "secondary_considerations": [
+            {
+                "consideration": "체표면적 25% 이상의 중증 화상",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "손이나 발, 샅고랑 부위, 얼굴의 중증 화상",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "눈에 이물질이 튄 후 증상 있음",
+                "KTAS_level": 2
+            }
+        ]
+    },
+    {
+        "symptom": "환각 / 망상",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "급성 정신병, 중증 불안 / 초조, 도주의 가능성이나 안전에 대한 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "중등도 불안 / 초조 또는 편집증을 동반",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "경증의 불안 / 초조, 안정되어 있음",
+                "KTAS_level": 4
+            },
+            {
+                "consideration": "만성적인 환각으로 인한 경증의 불안 / 초조",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "환자의 안녕에 대한 고려 (학대, 방임)",
+        "ROS": "정신건강",
+        "secondary_considerations": [
+            {
+                "consideration": "폭력 또는 안전하지 않은 상황",
+                "KTAS_level": 1
+            },
+            {
+                "consideration": "도주의 가능성이나 학대가 반복될 위험",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "육체적 폭행 또는 성폭행",
+                "KTAS_level": 3
+            },
+            {
+                "consideration": "학대의 병력 / 징후",
+                "KTAS_level": 4
+            }
+        ]
+    },
+    {
+        "symptom": "황달",
+        "ROS": "소화기계",
+        "secondary_considerations": [
+            {
+                "consideration": "황달, 건강해 보임",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "흉통 (비심장성)",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "기타 심각한 가슴 통증 (잡아 째는, 찢어지는 통증)",
+                "KTAS_level": 2
+            },
+            {
+                "consideration": "가슴 통증, 비심장성",
+                "KTAS_level": 5
+            }
+        ]
+    },
+    {
+        "symptom": "흉통 (심장성)",
+        "ROS": "심혈관계",
+        "secondary_considerations": [
+            {
+                "consideration": "심장성 흉통",
+                "KTAS_level": 2
+            }
+        ]
+    }
+]
